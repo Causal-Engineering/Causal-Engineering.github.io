@@ -1,6 +1,6 @@
 # Summary
 
-- [The Different Facets of Applied Curiosity](Manifesto.md)
+- [Five Facets of Applied Curiosity](Manifesto.md)
 
 - [Applied Curiosity Engineering](nested/Roadmap.md)
   - [PARA Architecture](nested/Architecture.md)
