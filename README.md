@@ -1,262 +1,188 @@
-***The best way to catch up is my CURRENT thinking ... MIGHT BE captured in my [MZB.me](https://markbruns.github.io/) gratitude book.***
+# Causal Engineering: A 52-Week Curriculum in Applied Curiosity
 
-***I need to do a better job of [microblogging on X](https://x.com/MarkBruns) ... OR maintaining my [Gist of Gists](https://gist.github.com/MarkBruns/4b3290aaff421f167b8e47ee59c7b25b), or skills templates for multi-agent harness engineering.***  
-
----
-
-*My daily life is roughly defined by my prison/jail ministry and martial arts lifestyle ... I have found that planning and implementing the plan helps keep me healthier. The following gives you an idea of what this means ... my plan is to update this schedule on a weekly if not daily basis in 2027, with updates on X and outreach to training partners around the world ... this plan currently NEEDS refactoring in order to be usable, but this offers a rough idea of kind of I am working on in my PARA system.*
-
---- 
-
-# LOOKING FORWARD To The Best Fifty-Two Weeks In The History of Fifty-Two Week Periods
-
-***Planning the lifestyle, then living and improving the plan.***  Plans are always imperfect, but the whole point of planning is not the document, but the process of implementing, refactoring, revising and changing the plan ... the POINT of a plan is to have a starting roadmap to work from, while realizing that as soon as *the battle* starts, the plan will need to be completely overhauled and adjusted, because new OPPORTUNITIES will arise.  
-
-The MOST IMPORTANT part of planning is **gratitude discipline** which is ALWAYS, ALWAYS, ALWAYS realizing that the situation is far better than one hoped for, although almost certainly not exactly what one hoped for, ie the plan will NEED TO BE adjusted -- that's the REASON for why planning and preparation are key.
-
-
-## A Jesus-First Martial Arts and Bible Study Curriculum for an Outdoor, Drop-In Group
-
-*Free. Peer-led. No ranks. No branding.*
-
-**To God be the glory.**
+**Objective:** Maximize the discovery of surprises — new actionable insights and useful knowledge — by developing the discipline of applied curiosity and an engineering approach to causal inference.
 
 ---
+
+# Part One: The Design
 
 ## 1. What this document is, and what it is not
 
-This is a full year of weekly sessions for a small group that meets outdoors, in all weather, and expects people to arrive and leave at will. It is written so that a person who has never been to a martial arts class, has never read the Bible seriously, and has no idea what anyone is talking about can walk up on any Saturday of the year and be genuinely included rather than politely tolerated.
+This is a full year of weekly sessions for a small group of people who want to get better at asking causal questions and finding causal answers. It is written for people who work in business, science, engineering, policy, or any field where the difference between correlation and causation is the difference between a useful decision and an expensive mistake. It assumes you can read a paper, open a spreadsheet, and follow an argument. It assumes nothing else.
 
-It is not a belt program. There are no stripes, no ranks, no attendance sheet, no graduation, and no test. Nothing in this document gives one person authority over another, and nothing in it makes one participant's presence more important than another's. The person who came for the first time last week is exactly as welcome as the person who has come for three years.
+It is not a statistics course. There are no proofs, no derivations, and no software tutorials. It is also not a reading group, though we read papers every week. It is a **practice group**: a place where people bring real problems, apply real methods, and get feedback from peers who are trying to do the same thing in different fields.
 
-It is also not a fighting program in the competitive sense. Most weeks are spent on balance, movement, structure, breathing, carrying, and restraint. Striking appears only as bag or pad work on a bag or pads, and only in the autumn, and never to the head. Live sparring does not appear in this document at all.
-
-Every week has five parts: a body-work assignment, a breath-work assignment, one idea to carry, one verse to sit with, and about five sentences of teaching for the person leading. The teaching is deliberately written out rather than summarized, because the aim of this document is that nobody has to improvise a lesson they do not feel ready to give.
-
-One last thing before the details. This material assumes the leader is not a pastor and the participants are not students. It assumes a room full of ordinary people, some of whom are having a very bad year. Everything below is written to make those people comfortable enough to stay for an hour, and to come back next week if they want to.
-
----
+Every week has four parts: a hands-on practice, an attention practice, one key idea, one reading, and about five sentences of teaching. The teaching is written out rather than summarized, because the aim is that nobody has to improvise a lesson they do not feel ready to give.
 
 ## 2. How to read a week's entry
 
-Every week is laid out the same way, so that a leader can open to any page and know where they are.
+- **Practice.** A hands-on exercise, done individually or in pairs, that trains a specific causal skill. It may use real data, synthetic data, or a structured reasoning exercise. The practice is the main event.
+- **Attention practice.** A short exercise that trains the discipline of noticing — of holding uncertainty, avoiding premature conclusions, and looking at familiar things with fresh eyes. It is not a warm-up and not a cooldown; it is a class inside the class.
+- **Key idea.** One concept, in a single sentence.
+- **Reading.** One paper, blog post, or book chapter — usually a pre-print or a foundational paper — that illustrates the week's idea. Read it before the session if you can; read the abstract and the conclusion if you cannot.
+- **Teaching.** About five sentences to read aloud or paraphrase. It says what the idea means, why it matters to a person who is tired or confused or new, and how it connects to what you just did.
 
-- **Body work.** What the group does with their bodies, and whether this is a *teach* week, a *repetition* week, a *capacity* week, or a *flow* week. These four words are explained in section 5.
-- **Breath practice.** A named breathing exercise, written out with actual counts, done as its own separate segment of the session. It is not a warm-up and not a cooldown; it is a class inside the class.
-- **Concept.** One idea, in a single sentence, for the week.
-- **Verse.** One passage from Scripture, quoted where it is short enough, cited where it is not.
-- **Teaching.** About five sentences to read aloud or paraphrase. It says what the idea means, why it matters to a person who is tired or afraid or new, and how it connects to what the body just did.
+## 3. The whole person: four things we are training
 
-Read the teaching out loud if you want. Read it in your own words if you can. Either is fine. What is *not* fine is skipping it, because the five sentences are the actual lesson and the physical work is the illustration.
+**The technical dimension** is the methods — DAGs, experiments, quasi-experiments, machine learning, sensitivity analysis. These are trainable in a year and measurable in a career.
 
----
+**The curiosity dimension** is the habit of asking "why?" and "what would change my mind?" before asking "how do I prove I'm right?" This is the hardest dimension to train and the one that matters most.
 
-## 3. The whole person: four things we are actually training
+**The engineering dimension** is the discipline of making causal claims reproducible, scalable, and useful — not just publishable. An engineering approach to causal inference means that every claim has a design, every design has assumptions, and every assumption is stated.
 
-A martial arts class that only trains the body produces a person who is stronger and still afraid. This curriculum is organized so that each session touches four dimensions of a person, and each week names which one it is leaning on.
+**The communication dimension** is the ability to explain a causal finding to someone who will make a decision based on it, without overselling and without hedging into uselessness.
 
-**The physical dimension** is the obvious one. Posture, balance, breath, grip, load, endurance, and the ability to get up off the ground. These are trainable in an hour and measurable in a season. They are also, for many men and women, the first experience in years of their body being useful rather than disappointing.
-
-**The mental and intellectual dimension** is attention. Learning the name of a thing, understanding why it works, and being able to describe it to someone else. A person who can explain why a low stance is more stable than a wide one has gained something no amount of drilling alone gives them. This is why the teaching sentences exist, and why the leader asks questions rather than only issuing instructions.
-
-**The emotional and psychological dimension** is what happens under mild pressure. Getting winded, being off balance, being corrected in front of others, being the least skilled person in the circle. These are small stresses, but they are real ones, and they arrive in a place where nobody is allowed to mock anybody. That combination — real stress plus guaranteed safety — is most of what this program is for. It is also the reason we do not tell people their trauma is being healed here; we simply provide the conditions and let time do its work.
-
-**The spiritual dimension** is attention to God. One verse, read twice, sat with in silence, and answered with one sentence if a person wants to speak. Not a sermon, not a lecture, not a debate. The verse is the teacher and the leader is the person who keeps the room quiet long enough for it to be heard.
-
-The breath practice is the hinge between all four. It is physical, because breathing is a body function. It is mental, because counting requires attention. It is emotional, because a long exhale is the fastest known way to reduce arousal. And it is spiritual, because almost every passage in Scripture about waiting on God assumes a person who has learned to be still.
-
----
+The attention practice is the hinge between all four. It trains the ability to sit with a question long enough to understand it, rather than jumping to the first plausible answer.
 
 ## 4. The fixed shape of every session
 
-The session is the same every week of the year. That sameness is not laziness; it is the single most important design decision in this document. A person who drops in twice a year should recognize the shape immediately. A person who is anxious about new situations should not have to learn a new format on top of learning new people.
+The session is the same every week. That sameness is not laziness; it is the single most important design decision in this document. A person who drops in twice a year should recognize the shape immediately.
 
 | Minutes | Segment | What happens |
 |---|---|---|
-| 0–5 | Arrival | Waiver and emergency contact check for anyone new. Shoes and gear check. Name tags if the group is larger than twelve. |
-| 5–10 | Circle | Welcome. One safety sentence for the day. A short prayer, out loud, by whoever is leading. |
-| 10–22 | Joint and movement preparation | Joints from the neck down, in the same order every week, plus whatever the day's body work requires. |
-| 22–45 | Main body work | Teach, repetition, capacity, or flow, depending on the week. |
-| 45–52 | Conditioning | The week's capacity task. Ten minutes at most, scaled by whoever is present. |
-| 52–62 | **Breath practice** | The week's named breathing exercise, taught as its own segment. Explained in section 6. |
-| 62–72 | Verse circle | The verse read twice. One question. Two to three minutes of silence. One sentence each from anyone who wants to speak. |
-| 72–75 | Close | Prayer requests, prayer out. Anyone who wants to stay and talk is welcome to stay and talk. |
+| 0–5 | Arrival | Check-in: one surprise from the week — something that did not match your expectation. |
+| 5–10 | Circle | Welcome. One framing sentence. The week's question, written where everyone can see it. |
+| 10–20 | Review | Quick review of last week's concept and practice. One person explains it in their own words. |
+| 20–45 | Main practice | The week's exercise, done individually or in pairs. |
+| 45–52 | **Attention practice** | The week's attention exercise, done as its own segment. |
+| 52–62 | Reading circle | The reading, summarized by one person, then discussed. One question. |
+| 62–72 | Application | How would you use this in your work this week? One sentence each. |
+| 72–75 | Close | One commitment for the week. |
 
-That is seventy-five minutes. In heat, it is cut to fifty by shortening the main body and the conditioning. In cold, it is cut to sixty by shortening the movement preparation and moving the verse circle indoors or into vehicles if that is what the group needs.
-
----
+That is seventy-five minutes. In practice, it often runs longer, and that is fine.
 
 ## 5. The four-week rhythm inside every block
 
-The year is divided into thirteen blocks of four weeks. Each block has one body-work theme — stance, or footwork, or ground movement, or carrying — and inside each block the four weeks follow the same pattern. Learning this pattern once means you can predict any week of the year.
+The year is divided into thirteen blocks of four weeks. Each block has one theme — noticing, foundations, experiments, quasi-experiments, and so on — and inside each block the four weeks follow the same pattern.
 
-**Week one of a block: Teach.** Slow movement, no fatigue, no partner resistance, and a great deal of talking. The goal is that everyone leaves able to name the thing and describe it. If people are tired, the teaching was too long. If people cannot say the name of the thing at the end, the teaching was too short.
+**Week one of a block: Teach.** New concept, slow, with many examples. The goal is that everyone leaves able to explain the concept in their own words. If people are confused, the teaching was too fast. If people can explain it, the teaching was right.
 
-**Week two of a block: Repetition.** The same thing, many times, with a cooperative partner or alone. Volume without speed. This is where the body starts to accept the idea. Correction is offered quietly and individually, never as a public demonstration of someone's error.
+**Week two of a block: Repetition.** The same concept, applied to multiple datasets or scenarios. Volume without speed. This is where the idea becomes a habit.
 
-**Week three of a block: Capacity.** The same thing, under fatigue, in a controlled dose. This is the week that trains the emotional dimension, because fatigue is what makes people revert to their habits. Nobody is pushed past what they can recover from by the next morning.
+**Week three of a block: Capacity.** The same concept, applied under constraints — time pressure, incomplete data, ambiguous questions, a decision that has to be made by Friday. This is the week that trains the engineering dimension, because constraints are what make causal inference useful rather than merely correct.
 
-**Week four of a block: Flow and circle.** Light, integrated movement that uses the block's theme without demanding anything new, followed by a longer verse circle. This is the week where a person can bring a friend, miss half the session, arrive late, or leave early without disrupting anything.
+**Week four of a block: Flow.** Integration with previous material, and teaching it to someone else. This is the week where a person can bring a colleague, miss half the session, or arrive late without disrupting anything.
 
----
+## 6. Why the attention practice sits where it does
 
-## 6. Why the breath practice sits where it does
+The attention practice comes after the main exercise and before the reading. After forty-five minutes of problem-solving, most people are in **answer mode** — looking for the solution, defending the approach, tidying the result. The attention practice shifts them into **question mode** — noticing what they assumed, what they ignored, what surprised them.
 
-The breath segment comes *after* the physical work and *before* the verse circle, and it is placed there on purpose.
+Each attention practice has three jobs, and the leader should name them out loud the first time a practice is introduced:
 
-After forty-five minutes of movement, most people are mildly aroused: heart rate up, breathing fast, attention narrowed. A verse read in that state lands on a nervous system that cannot receive it. Eight to ten minutes of slow breathing with a long exhale brings the heart rate down, widens attention, and makes the room quiet enough that a single sentence of Scripture can actually be heard instead of merely recited.
+1. **Defamiliarize.** Look at something familiar — a dataset, a process, a result — as if for the first time. This is the cure for expertise blindness.
+2. **Widen.** Consider alternative explanations, broader context, what is missing from the frame. This is the cure for tunnel vision.
+3. **Attend.** Focus on one specific thing with full attention, without trying to solve it. This is the cure for premature closure.
 
-The practice is also where this curriculum trains the thing that most martial arts programs train badly: **gentle, intense awareness of surroundings.** Most self-defense teaching creates a person who scans for threats. That person is exhausting to be around and is not actually safer, because vigilance without calm degrades judgment. What we want instead is a person whose eyes are soft, whose field of vision is wide, who has heard the sounds of the space they are standing in, and whose breathing has not changed. That is a physical skill. It can be practiced in eight minutes. It is practiced fifty-two times a year in this program.
-
-Each week's breath practice therefore has three jobs, and the leader should name them out loud the first time a practice is introduced:
-
-1. **Down-regulate.** Long exhale, slow count, no strain. This is the stress-management job.
-2. **Widen.** Soft eyes, peripheral vision, listening to the edges of the space. This is the awareness job.
-3. **Attend.** One word, one name of God, one person, one verse. This is the prayerful job.
-
-If a practice only does the first job, it is relaxation. If it only does the second, it is a tactical drill. If it only does the third, it is a devotional. All three together is what this program is trying to build.
-
-**One rule about breath work that the leader must enforce:** nobody holds their breath to the point of strain, and nobody is corrected for breathing "wrong." If someone gets dizzy, they stop, sit down, and breathe normally. If someone is pregnant, has asthma, has a heart condition, or has panic attacks, they do the practice at half the count and skip every hold. Say this out loud before the first session and every time a new person arrives, because it gives people permission to participate without explaining themselves.
-
----
+If a practice only does the first job, it is a curiosity exercise. If it only does the second, it is a red-team exercise. If it only does the third, it is a meditation. All three together is what this program is trying to build.
 
 ## 7. Words we use, and what they mean
 
-Nothing in this document assumes prior training. If you are leading and you use a word your group does not know, define it before you use it again. Here is the vocabulary, spelled out.
+Nothing in this document assumes prior training. If you are leading and you use a word your group does not know, define it before you use it again.
 
-**Movement and position**
+**Causal structure**
 
-- **Stance** — how you arrange your feet, knees, and hips while standing. A low stance has bent knees and a lower center of gravity; a wide stance has feet far apart.
-- **Center of gravity** — roughly your hips. Where they go, your balance goes.
-- **Frame** — using your forearm and elbow as a rigid structure against someone, without grabbing them. A frame creates space; a grip takes it away.
-- **Post** — putting a hand or forearm on the ground or on a partner to hold a position.
-- **Brace** — tightening your trunk muscles, the way you would before lifting something heavy, so that your spine stays still.
-- **Breakfall** — a rehearsed way of landing on the ground so that you spread the impact instead of catching it on one joint. Also called *ukemi* in Japanese martial arts. We teach it on mats only, and never on frozen ground.
-- **Technical stand-up** — the specific way of getting off the ground that keeps your hands and head safe while you rise. It is the single most useful skill in this entire curriculum and it is taught in week thirteen.
-- **Shrimp** — a hip escape. Lying on your back, you push with one foot and slide your hips away from an imagined weight.
-- **Bridge** — lying on your back, feet planted, lifting your hips off the ground.
-- **Sit-out** — from your hands and knees, threading one leg under your body to change your facing direction.
-- **Ground work** — anything done on the floor. In this program, ground work happens on mats or soft grass, and only when the ground is not frozen.
-- **No-gi** — training without the traditional jacket and trousers of Japanese and Brazilian martial arts, in ordinary shorts and a shirt. It means there is less to grab, so control comes from positioning rather than cloth. We are a no-gi program by default, because it requires no uniform and no money.
-- **Collar tie** — a hand behind a partner's neck, used to control posture. Taught in week seventeen as a no-gi equivalent of grabbing a jacket collar.
-- **Single-leg hip hinge** — bending forward on one leg while the other leg extends behind you, keeping your back flat. Often abbreviated in gyms as a "single-leg deadlift"; we say the long version.
-- **Hold and strip** — one person grips, the other removes the grip. Practiced slowly and cooperatively.
+- **Treatment** — the thing you are asking about. The cause. It can be a drug, a policy, a marketing campaign, a design change, or a training program.
+- **Outcome** — the thing you are trying to explain or predict. The effect.
+- **Confounder** — a variable that affects both treatment and outcome, creating a spurious association. The classic example: ice cream sales and drowning both increase in summer, but summer is the confounder.
+- **Collider** — a variable that is caused by both treatment and outcome. Conditioning on a collider creates a spurious association. This is the most common mistake in observational analysis.
+- **Mediator** — a variable that lies on the causal path between treatment and outcome. It explains the mechanism.
+- **DAG** — directed acyclic graph. A diagram of your causal assumptions, with arrows showing the direction of causation. Drawing the DAG forces you to state what you believe.
+- **Backdoor criterion** — a graphical rule for identifying a set of variables to adjust for so that the remaining association is causal. If you can block all backdoor paths, you can estimate the effect.
+- **Frontdoor criterion** — a graphical rule for identifying a causal effect when the backdoor is blocked but a mediator is available.
 
-**Conditioning**
+**Estimands**
 
-- **Isometric** — a contraction where nothing moves. A wall sit is an isometric.
-- **Carry** — walking while holding something heavy. A *farmer carry* is one weight in each hand. A *suitcase carry* is one weight in one hand. A *yoke carry* is a bar across the shoulders.
-- **Ruck** — a walk with weight in a backpack.
-- **Sled push** — pushing a weighted sled across the ground. If the group has no sled, pushing a loaded wheelbarrow or a car in neutral works, and is safer than it sounds if the ground is flat.
-- **Medicine ball** — a heavy ball, usually ten to twenty pounds, thrown or carried. In this program it is never thrown overhead.
-- **Intervals** — alternating harder and easier effort. Written as work-to-rest, for example "thirty seconds of effort, thirty seconds of walking."
-- **Rating of perceived exertion** — how hard an effort feels, on a scale from one to ten, where one is sitting still and ten is the hardest thing you have ever done. We say the whole phrase, because the number only means something if you know what it measures. A useful anchor: a six is "I could still hold a conversation," an eight is "I could answer in short words."
-- **Heart-rate ceiling** — the highest heart rate we allow in a session. For most adults in this program, that is a number where the person can still speak in full sentences. If you cannot speak a sentence, you are over the ceiling.
-- **Recovery** — the time it takes for breathing to return to normal after effort. Learning your own recovery time is a skill, and it is taught explicitly in week seven.
+- **ATE** — average treatment effect. The average effect of the treatment on the whole population.
+- **ATT** — average treatment effect on the treated. The average effect for those who actually received the treatment.
+- **CATE** — conditional average treatment effect. The effect for a subgroup defined by covariates.
+- **LATE** — local average treatment effect. The effect for the subgroup whose treatment status is affected by the instrument.
+- **Counterfactual** — what would have happened under a different treatment. Causal inference is the science of estimating counterfactuals.
 
-**Partner work and supervision**
+**Methods**
 
-- **Cooperative partner work** — both people are trying to make the drill work, not trying to win. Errors are gifts, not openings.
-- **Resisted-cooperative** — a partner supplies light, predictable resistance, at a level both people agree on out loud before starting.
-- **Positional work** — starting from a specific position and working only from there, with a defined stopping point.
-- **Referee-supervised** — a third person watches a pair and stops the action at any sign of confusion, anger, or loss of control. The referee is not a coach and does not score anything.
-- **Live round** — continuous practice against a fully resisting partner. **This program does not include live rounds.**
-- **Pad work** — striking a held pad or a heavy bag. No partner is struck. No head contact, ever.
-- **Verbal de-escalation** — the words and body language used to lower a tense situation without touching anyone. Practiced as a drill in week forty-two, because it is a skill and not a personality trait.
-- **Flow** — continuous, slow movement through positions without resistance. Cooperative flow means both people move at roughly half speed.
+- **RCT** — randomized controlled trial. The gold standard, because randomization breaks the link between treatment and confounders.
+- **A/B test** — an online RCT, usually comparing two versions of a product or campaign.
+- **Factorial design** — an experiment that tests multiple treatments and their interactions at once.
+- **Difference-in-differences (DiD)** — compares the change in outcome over time between a treated group and an untreated group. Requires parallel trends.
+- **Instrumental variable (IV)** — a variable that affects treatment but has no direct effect on the outcome except through treatment. Used when randomization is impossible.
+- **Regression discontinuity (RDD)** — exploits a threshold rule (e.g., a test score cutoff) to compare units just above and just below the threshold.
+- **Synthetic control** — constructs a weighted combination of untreated units to serve as a counterfactual for a single treated unit.
+- **Propensity score** — the probability of receiving treatment given covariates. Used for matching or weighting.
+- **Double/debiased machine learning** — uses ML to estimate nuisance functions while preserving valid inference on the causal parameter.
+- **Causal forest** — an ML method for estimating heterogeneous treatment effects.
+- **TMLE** — targeted maximum likelihood estimation. A doubly robust method for causal effect estimation.
 
-**Breathing**
+**Validity and sensitivity**
 
-- **Counted breathing** — a pattern written as four numbers: inhale, hold, exhale, hold, each in seconds. "Four-four-four-four" is box breathing.
-- **Extended exhale** — an exhale longer than the inhale, for example four seconds in and six seconds out. This is the workhorse of stress management and it appears in some form most weeks.
-- **Physiological sigh** — two inhales through the nose, the second a short top-up, followed by a long sigh out through the mouth. It is the fastest way to discharge acute stress and it requires no skill.
-- **Resonance breathing** — breathing at roughly five and a half seconds in and five and a half seconds out, which tends to synchronize heart rate and breathing. It is the most reliable long, slow practice for most people.
-- **Nasal-only breathing** — breathing in and out through the nose with the mouth closed. It paces effort, warms and filters air in cold weather, and is the default in this program unless a practice says otherwise.
-- **Valsalva maneuver** — straining while holding your breath against a closed throat. Common in heavy lifting. **We do not do it.** Exhale on effort instead, and never hold your breath while pushing.
-- **Wide field** — soft eyes, focused on nothing in particular, taking in the edges of vision rather than the center. It is a trainable skill, it is what allows a person to notice what is happening beside them, and it appears in roughly a third of the breath practices below.
-- **Orienting** — slowly turning your head and eyes to look around the space, letting your breath stay slow, so that your body registers where you are. Used after startle and after hard effort.
+- **Sensitivity analysis** — how strong would an unmeasured confounder have to be to explain away your result? E-values and Rosenbaum bounds are common tools.
+- **Negative control** — an outcome or treatment that should show no effect if your design is valid. If it does show an effect, something is wrong.
+- **Falsification test** — a test that your design should pass if the assumptions hold. A placebo test is a common example.
+- **Transportability** — whether a causal effect estimated in one population applies to another.
+- **External validity** — the generalizability of a causal finding beyond the study sample.
+- **Pre-registration** — writing down your analysis plan before looking at the data. The cure for garden-of-forking-paths.
+- **Replication** — repeating a study with new data. The cure for false positives.
 
----
+## 8. The four rules that make a practice group work
 
-## 8. The four rules that make a drop-in group work
+**Rule one: no gatekeeping.** Anyone can learn this. There are no prerequisites, no entrance exam, and no hierarchy of expertise. The person who has been doing causal inference for twenty years and the person who learned what a DAG is last week are both welcome, and neither is more important.
 
-**Rule one: no ladder.** No ranks, no belts, no stripes, no attendance records, no graduation, no "level two." Ranking is the fastest way to turn a newcomer into a spectator, and a spectator does not come back. The thirteen blocks are a rotation, not a staircase. Someone who joins in week forty-three gets the refuge block in autumn and the stance block in the following spring, and has lost nothing.
+**Rule two: every week is complete.** No week assumes the previous week happened. If a person attends only week thirty-four all year, they should have received a full session: a useful skill, an attention practice they can use that night, one idea, one paper, and one honest conversation.
 
-**Rule two: every week is complete.** No week assumes the previous week happened. If a person attends only week thirty-four all year, they should have received a full session: a useful body skill, a breath practice they can use that night, one idea, one verse, and one honest conversation.
+**Rule three: the leader rotates.** Any regular participant can lead, using this document. Rotating leadership prevents a personality cult, prevents burnout, and keeps the group from becoming one person's project.
 
-**Rule three: the leader rotates.** Any regular participant can lead, using this document. Rotating leadership prevents a personality cult, prevents burnout, and keeps the group from becoming one man's project. A leader who has led twice should be teaching someone else to lead.
+**Rule four: nothing is for sale.** No fees, no donations, no merchandise, no curriculum for purchase, no fundraising, no sponsor logo. The group is free, open, and independent. If someone offers money, the answer is "no, but come back next week."
 
-**Rule four: nothing is for sale.** No fees, no donations, no merchandise, no curriculum for purchase, no fundraising, no sponsor logo, no church budget line that comes with an expectation. Gear is borrowed, not sold. If someone offers money, the answer is "no, but come back next week." The only money the ministry touches is the fixed, invisible kind that pays for insurance, and that is held by an entity, not by a person.
+## 9. Operating modes
 
----
+This curriculum assumes you will be working with different kinds of data and different kinds of constraints. The mode changes what you emphasize, not the shape of the session.
 
-## 9. Seasonal operating modes
-
-This curriculum assumes a temperate climate in the northern hemisphere, with four real seasons, cold winters, and hot summers. If your climate does not match, rotate the whole grid by twenty-six weeks or shift the seasonal labels; the week numbers are the unit and the dates are a convenience.
-
-| Season | Weeks | What the weather does | How the program responds |
-|---|---|---|---|
-| **Winter** | 1–12 | Frozen or near-frozen ground, short daylight, layers | No falling on frozen ground, no exceptions. Stance, footwork on flat hard surfaces, structure, and carrying. Session moves indoors, under cover, or into daylight hours. Verse circle is shorter and warmer. |
-| **Spring** | 13–24 | Wet, muddy, soft ground returns | Ground work resumes, on mats or soft grass only. Boots give way to shoes. Grip work gets messy; tape fingers if the group has tape. |
-| **Summer** | 25–36 | Heat is the primary hazard, not cold | Sessions move to early morning. Water on the line. Forty-five to fifty minute ceiling. Conditioning volume is cut. Technique and slow flow replace load. Written heat call: if the heat index is at or above 103 degrees Fahrenheit, the session relocates or cancels. Nobody argues about this in the moment; it is decided in advance. |
-| **Autumn** | 37–52 | The best conditions of the year | Peak load returns. Ground work returns. Bag and pad work appears for the first time since last year. The year closes with teaching back, hospitality, and a shared meal. |
-
-**Weather calls that are made in advance, in writing, and are not negotiated at the field:**
-
-- **Thunder or lightning** — session cancels. If you can hear thunder, you are close enough to be struck. There is no version of this program that is worth that risk.
-- **Ice on the ground** — no ground work, no falling, no running drills. Stance and structure only. If it is icy enough that walking is uncertain, cancel.
-- **Heat index at or above 103 degrees Fahrenheit** — relocate to shade and water, halve the session, or cancel.
-- **Wind chill below 20 degrees Fahrenheit** — shorten to forty minutes, no exposed skin, no standing still for the verse circle; do it in a vehicle or a borrowed room.
-
----
+| Mode | When you are in it | What the program emphasizes |
+|---|---|---|
+| **Experimental** | You can randomize | Design, power, heterogeneity, pre-registration |
+| **Observational** | You cannot randomize | Identification, DAGs, sensitivity, falsification |
+| **No data yet** | You are still formulating the question | Curiosity, DAG construction, study design, power analysis |
+| **Decision mode** | A decision has to be made by Friday | Value of information, robustness, communication |
+| **Learning mode** | You are reading the literature | Pre-prints, replication, meta-analysis, reaching out to authors |
 
 ## 10. The eleven things that never change
 
-These are not seasonal and they are not optional. They are what keeps a good group alive past its second year.
-
 1. It is free, and there is no collection.
-2. There is a written liability waiver for adults and a signed parental permission for anyone under eighteen, and the group does not meet without them.
-3. There is a written injury log. It records date, what happened, who was present, and what was done. It is boring and it is the most valuable document the group owns.
-4. There is written permission to use the space, with a named contact and a cancellation path.
-5. There are written drill-partner rules, distributed before the first mixed-gender partner session, not after a problem.
-6. There is no striking of a person. Ever. Pads and bags only.
-7. There is no head contact of any kind.
-8. There are no ranks, and no one is called "coach," "sensei," "professor," or "master." First names.
-9. One person speaks at a time in the circle, and no one is required to speak.
-10. Nobody is photographed for promotion, and nothing is posted publicly without the specific, spoken permission of every person in the frame.
-11. The last five minutes belong to prayer requests and prayer. They are not cut for time.
-
----
+2. There is no required software, no required textbook, and no required background.
+3. Every claim is falsifiable. If you cannot say what would change your mind, you do not have a claim.
+4. Every method has assumptions. State them before you use the method.
+5. Every result has uncertainty. Quantify it before you communicate it.
+6. No one is called "expert," "guru," "sensei," or "professor." First names.
+7. One person speaks at a time in the circle, and no one is required to speak.
+8. Nothing is posted publicly without the specific, spoken permission of every person involved.
+9. The last five minutes belong to commitments. They are not cut for time.
+10. The goal is surprise, not confirmation. A result that confirms what you already believed is less valuable than a result that challenges it.
+11. The group does not belong to the person who started it.
 
 ## 11. What we say and what we refuse to say
 
-Words create expectations, and expectations become promises, and promises become liabilities that land on the volunteers. So the group says this:
+**We say:** this is a practice group for people who want to get better at causal reasoning. We say that people who come every week tend to ask better questions, design better studies, and make better decisions. We say that the methods are learnable and the discipline is trainable.
 
-**We say:** a sustained weekly group, accountability, physical practice, caring adults who are not family, and a structured, non-competitive way of teaching. We say that people who come every week tend to get stronger, calmer, and better at getting up off the ground, and that we have seen it happen.
-
-**We do not say:** that this program is evidence-based; that it debriefs trauma; that it is proven to de-escalate anything; that it reduces anyone's liability; that it improves how a community sees the police; or that it heals anybody. We do not put a number on how many people it has helped.
+**We do not say:** that this is a substitute for formal training, that any single method is always right, that causal inference is easy, or that a result is true because it was published. We do not put a number on how many decisions this has improved.
 
 And when somebody asks whether the program works, the honest answer is the one that costs the least and is worth the most: *"Come for eight weeks and tell me."*
 
----
-
 ## 12. The year, at a glance
 
-| Block | Weeks | Body-work theme | Season | Spiritual thread |
+| Block | Weeks | Theme | Core question | Attention practice |
 |---|---|---|---|---|
-| 1 | 1–4 | Stance, posture, base | Winter | The One we follow |
-| 2 | 5–8 | Footwork and distance | Winter | Who you are |
-| 3 | 9–12 | Structure and frame | Winter | Fear and courage |
-| 4 | 13–16 | Ground movement and rising | Spring | Falling and getting up |
-| 5 | 17–20 | Grip and release | Spring | Holding on and letting go |
-| 6 | 21–24 | Load and carrying | Spring | Bearing burdens |
-| 7 | 25–28 | Breath and pacing | Summer | Breath as gift |
-| 8 | 29–32 | Balance and uneven ground | Summer | Where your eyes are |
-| 9 | 33–36 | Cooperative flow and mercy | Summer | Peacemaking |
-| 10 | 37–40 | Power under authority | Autumn | Restraint |
-| 11 | 41–44 | Escape and refuge | Autumn | Where you run |
-| 12 | 45–48 | Endurance and rest | Autumn | Rest as obedience |
-| 13 | 49–52 | Teaching back and sending | Autumn | Release the outcome |
+| 1 | 1–4 | The discipline of noticing | What makes something worth investigating? | The prediction journal |
+| 2 | 5–8 | Causal foundations | What is the grammar of causation? | The DAG sketch |
+| 3 | 9–12 | Experimental design | What can randomization tell us? | What would change my mind? |
+| 4 | 13–16 | Quasi-experiments | What can nature tell us? | The parallel trends test |
+| 5 | 17–20 | Observational methods | What can we learn when we can only watch? | The sensitivity audit |
+| 6 | 21–24 | Machine learning and causality | Can we scale causal inference? | The held-out surprise |
+| 7 | 25–28 | Measurement and data quality | Is the data telling the truth? | The missing data scan |
+| 8 | 29–32 | Applied domains: science and engineering | What do other fields know? | The outside view |
+| 9 | 33–36 | Applied domains: business and industry | What makes a decision better? | The decision journal |
+| 10 | 37–40 | Communication and decision-making | How do we move from insight to action? | The one-sentence test |
+| 11 | 41–44 | Building a learning organization | How do we scale curiosity? | The learning agenda |
+| 12 | 45–48 | Advanced topics | What is at the frontier? | The pre-print scan |
+| 13 | 49–52 | Teaching back and sending | How do we close the loop? | The teach-back |
 
 ---
 
@@ -264,943 +190,988 @@ And when somebody asks whether the program works, the honest answer is the one t
 
 ---
 
-## Block 1 — Stance, Posture, Base
-**Weeks 1–4 · Winter · January 3 to January 24 · Body-work rhythm: teach, repetition, capacity, flow**
+## Block 1 — The Discipline of Noticing
+**Weeks 1–4 · Theme: Applied curiosity · Body-work rhythm: teach, repetition, capacity, flow**
 
-**Why this block, why now.** January is cold, the ground is hard, and the group contains people who have not moved their bodies deliberately in a decade. Falling is off the table, ground work is off the table, and running is off the table. What is left is the most foundational thing in all of martial arts and the least interesting to teach: how to stand. Four weeks on feet, knees, and hips will feel slow, and slow is correct. Everything later in the year — footwork, frame, escape, carrying — sits on top of what happens this month.
+**Why this block, why now.** Most people who want to get better at causal inference start with methods. They learn about DAGs, instrumental variables, and sensitivity analysis, and then they apply those methods to questions that were never worth asking. This block starts somewhere else: with the discipline of noticing. A causal engineer who cannot notice a surprising observation is a technician, not an engineer. The first month is about training the habit of asking "why?" before asking "how?"
 
-**What a newcomer should expect.** Nobody will be thrown, struck, or put on the floor. There is no contact this month beyond a partner's hand on your forearm at low effort in weeks nine through twelve, and you may decline even that. If you can stand up and sit down, you can do every session in January.
-
----
-
-### Week 1 · Saturday, January 3, 2026
-
-**Body work — teach week.** The low stance: where the feet go, how far the knees bend, and which direction the hips point. Practiced against a wall first, then in open space, with a wall sit and a slow breathing ladder to finish.
-
-**Breath practice — "Cold Nose."** Standing, mouth closed, breathe only through the nose. Four seconds in, six seconds out, ten rounds, hands relaxed at your sides. Then keep the same breath and, with your eyes soft, name three sounds you can hear. This trains two things at once: warming and filtering cold air, and the habit of arriving somewhere before you speak.
-
-**Concept.** The invitation comes before the ability.
-
-**Verse.** Mark 1:17 — *"Come, follow me," Jesus said, "and I will send you out to fish for people."*
-
-**Teaching.** Before Jesus teaches anything, he says two words: follow me. He does not ask for a resume, a fitness level, or a reason, and he does not say "get ready, and then come." The order matters for a group like this one, because the most common reason people never start anything is the belief that they should already be good at it. Today we will hold a stance that is deliberately a little awkward, and we will do it badly together. Nobody here has to earn the ground before standing on it.
+**What a newcomer should expect.** No math this month. No software. You will read papers, ask questions, and practice noticing. If you can read a newspaper article and ask "what would have happened otherwise?" you can do every session in January.
 
 ---
 
-### Week 2 · Saturday, January 10, 2026
+### Week 1 · The surprising observation
 
-**Body work — repetition week.** Moving between stances without standing up in between: step, settle, hold for twenty seconds, step again. Two hundred small repetitions, no speed, no partner.
+**Practice — teach week.** Take a dataset you already have access to — sales figures, website analytics, a spreadsheet from work, a public dataset — and find one thing that surprises you. Not one thing that confirms what you expected; one thing that does not match your mental model. Write down what you expected, what you found, and why the gap matters. Then try to explain the gap with three different hypotheses.
 
-**Breath practice — "Ten Exhales."** Sit or stand still. Breathe in through the nose for four, out for six, and count each exhale silently, from one to ten. When you reach ten, begin again at one. If you lose count, and you will, begin again without criticizing yourself. This is a concentration practice disguised as a breathing practice, and the moment you notice you have drifted is the moment it is working.
+**Attention practice — The prediction journal.** Before you look at the data, write down three things you expect to find and why. Then look. Compare your predictions to the results. The gap between prediction and result is the most valuable data you will collect all week.
 
-**Concept.** Curiosity counts as discipleship.
+**Key idea.** The most valuable observation is the one that does not fit.
 
-**Verse.** John 1:39 — *"Come," he replied, "and you will see."*
+**Reading.** "The Garden of Forking Paths" — Gelman & Loken (2014). Available on arXiv. A short, readable paper about how researchers unconsciously fish for surprising results, and why pre-registration matters.
 
-**Teaching.** Two of John's disciples ask Jesus where he is staying, and instead of a lecture he gives them an address: come and see. Curiosity is treated in that passage as a completely legitimate way to begin. Most of us arrived at faith the same way, by hanging around people who seemed to have something and wanting a closer look. Today is repetition, which is the least exciting and most honest form of curiosity, because it is what you do when you actually want to understand something. If the drill feels boring, the drill is working.
-
----
-
-### Week 3 · Saturday, January 17, 2026
-
-**Body work — capacity week.** Holding positions under mild fatigue: wall sits, slow squats with a three-second descent, and short carries across the space with whatever is heavy and available. Everything stops well before failure.
-
-**Breath practice — "Weight and Breath."** While holding a wall sit, breathe in through the nose for four and out through the mouth for six, and never hold your breath. Take the hold only as long as you can keep the breathing slow and unbroken, then stand up. This teaches the single most useful physical skill in the whole curriculum: staying calm while your legs are complaining. It also teaches you that the complaining is not an instruction.
-
-**Concept.** A rhythm, not a burden contest.
-
-**Verse.** Matthew 11:29–30 — *"Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls. For my yoke is easy and my burden is light."*
-
-**Teaching.** A yoke is a wooden beam that ties two animals together so that a load is shared and a pace is set by something other than the stronger animal's ambition. Jesus says his yoke is easy, which is a strange thing to say to people who are already exhausted. He is not offering a lighter load so much as a different arrangement, one in which you are not carrying it alone. Today we hold positions and find out how much of our effort is actually necessary, because most people discover they are working about thirty percent harder than the task requires. That extra thirty percent is almost always anxiety.
+**Teaching.** Every field has a version of the same problem: we see what we expect to see, and we explain away what we do not. The discipline of noticing is the practice of catching yourself in the act. Before you look at data, write down what you expect. After you look, write down what surprised you. The surprise is not an error in the data; it is an error in your model of the world, and that is the most useful thing you can find. Today's practice is simple: find one surprise, and resist the urge to explain it away.
 
 ---
 
-### Week 4 · Saturday, January 24, 2026
+### Week 2 · The five whys
 
-**Body work — flow and circle week.** Continuous, unhurried movement through the month's stances: stance, step, settle, breathe, step again. No counting, no corrections, no new material. The circle afterward runs long.
+**Practice — repetition week.** Take a correlation you have observed — in your work, in the news, in a paper — and ask "why?" five times. Each answer becomes the input to the next question. Write down the chain. Then draw a DAG of the causal structure you have uncovered. Repeat with three different correlations.
 
-**Breath practice — "The Lower Place."** Standing in a low stance, breathe four in and eight out, only six rounds, then stand normally and let the breath return to whatever it wants. Then sit for two minutes in silence with no counting at all. The long exhale is the practice; the silence afterward is where you notice its effect.
+**Attention practice — The five whys.** The practice is the exercise. Do it slowly. The first "why" is usually obvious. The second is harder. By the fifth, you are usually in territory you had not considered.
 
-**Concept.** The posture is downward.
+**Key idea.** Every correlation has a causal story underneath it. The question is whether you have bothered to find it.
 
-**Verse.** Philippians 2:5–8 — *"In your relationships with one another, have the same mindset as Christ Jesus... he humbled himself by becoming obedient to death."*
+**Reading.** Chapter 1 of *Causal Inference: What If* by Hernán and Robins. Available free online. A clear, non-technical introduction to the counterfactual approach.
 
-**Teaching.** Paul tells the church at Philippi to have the same mind as Christ, and then describes what that mind did: it went down. Not down in the sense of defeat, but down in the sense of choosing the lower place on purpose. Every stance we worked on this month is a lower place than standing tall, and that is the point — stability comes from getting low, not from looking impressive. In the circle today, ask yourself where else in your week the low position would be the strong one. The answer is usually a conversation you have been avoiding.
-
----
-
-## Block 2 — Footwork and Distance
-**Weeks 5–8 · Winter · January 31 to February 21 · Body-work rhythm: teach, repetition, capacity, flow**
-
-**Why this block, why now.** Distance is the first thing that keeps a person safe and the last thing anyone teaches them. It is also the only skill in this entire year that can be practiced alone, in a coat, on frozen ground, with no equipment and no partner. February is the right month for it for exactly that reason. Nothing this month requires a mat, a partner's body, or a warm surface.
-
-**What a newcomer should expect.** All footwork this month is solo except for week eight, which is mirroring at a distance with no contact. You will not be touched. Wear shoes with some tread; a smooth-soled boot on cold grass is the most likely injury in the entire year.
+**Teaching.** A correlation is a fact about the world. A causal explanation is a story about why that fact is true. Most people stop at the correlation because the story is hard and the fact is easy. The five whys is a simple discipline for pushing past the first plausible explanation. It works because the first explanation is usually a restatement of the correlation, the second is usually a confounder you already knew about, and the third or fourth is usually the thing you actually needed to know. Today we practice asking until we get there.
 
 ---
 
-### Week 5 · Saturday, January 31, 2026
+### Week 3 · What would change my mind?
 
-**Body work — teach week.** The three movements that make distance real: the entry step, the pivot, and the angle-out. Practiced along a painted line or a rope on the ground, first walking, then at a controlled shuffle.
+**Practice — capacity week.** Take a causal claim you believe — something from your work, your field, or your personal life — and write down three specific results that would change your mind. Be concrete. "If the effect were smaller than X" is not specific enough. "If the effect disappeared when we controlled for Y" is better. Then design a study that could produce one of those results. You will not run the study this week; you will only design it.
 
-**Breath practice — "Threshold."** Before you step onto the line, stop. Three slow breaths, four in and six out, and on the last exhale one sentence of prayer, spoken silently, in your own words. Then step on. This practice is about intention: it teaches the body that crossing a line means something, which is the beginning of the awareness we want in a real situation.
+**Attention practice — What would change my mind?** Before you analyze anything this week, write down the result that would falsify your hypothesis. Keep it in front of you while you work. If you find yourself hoping for a particular result, you have found the thing this practice is for.
 
-**Concept.** Identity comes before performance.
+**Key idea.** A claim that cannot be falsified is not a claim; it is a belief.
 
-**Verse.** Matthew 3:17 — *"This is my Son, whom I love; with him I am well pleased."*
+**Reading.** "False-Positive Psychology" — Simmons, Nelson, & Simonsohn (2011). A short paper about how flexible analysis choices inflate false positives. Read it as a checklist of things to avoid.
 
-**Teaching.** Before Jesus does a single thing in public, a voice says this is my beloved Son, in whom I am well pleased. The approval comes before the work rather than after it, which is backwards from how most of us were raised. In training, that means the person who cannot do the footwork yet is not a beginner version of a human being; they are a beloved one learning footwork. Today's drill is about where you put your foot, and the reason it matters is that distance is the one thing that keeps a situation from becoming a fight. Step off the line of approach, and notice how much less there is to manage when you are not standing directly in front of someone.
-
----
-
-### Week 6 · Saturday, February 7, 2026
-
-**Body work — repetition week.** Figure-eight patterns, ladder patterns, and three-step entries, all on a line, all slow. Plenty of repetitions with a pause between each, because accuracy is built in the pause and not in the repetition.
-
-**Breath practice — "Step-Locked."** Walking the line, breathe in for four steps and out for four steps, keeping the pattern locked to the feet rather than the clock. If you change speed, the breathing changes with it. This is coordination training for the diaphragm, and it is also a way of noticing that your breath and your movement are usually doing two unrelated things.
-
-**Concept.** You are not training to earn a place.
-
-**Verse.** Romans 8:15 — *"The Spirit you received does not make you slaves, so that you live in fear again; rather, the Spirit you received brought about your adoption."*
-
-**Teaching.** Paul says the Spirit you received does not make you a slave again to fear, but an adopted child. Slaves work to avoid punishment; children work because they are already home. That distinction decides what a bad repetition means, and it is the difference between a group that people stay in and a group that people quietly leave. In a slavery frame, a clumsy repetition is evidence against you, and in an adoption frame it is simply a clumsy repetition. Today, do the footwork two hundred times and let a third of them be bad on purpose.
+**Teaching.** The most important question in causal inference is not "what is the effect?" It is "what result would convince me that I am wrong?" If you cannot answer that question, you are not doing science; you are doing advocacy. Today's practice is to take a belief you hold and write down the specific evidence that would change your mind. The exercise is uncomfortable, which is the point. The discomfort is the feeling of your belief becoming a claim.
 
 ---
 
-### Week 7 · Saturday, February 14, 2026
+### Week 4 · Reading pre-prints and reaching out
 
-**Body work — capacity week.** Shuttle intervals on flat ground, thirty seconds of effort and forty-five seconds of walking, six rounds. Or stairs, or a gentle hill, if the ground is clear and dry. The effort is meant to leave you able to speak in short sentences at the top of each round.
+**Practice — flow and circle week.** Find a recent pre-print on arXiv, SSRN, bioRxiv, or medRxiv in a field adjacent to your own — not your own field, an adjacent one. Read the abstract, the introduction, and the conclusion. Write down one question you would ask the authors. Then send it to them. A short, polite email with a specific question is the entire practice. If you do not get a response, that is fine; the practice is the sending, not the reply.
 
-**Breath practice — "Recovery Ladder."** Immediately after your last effort, stand tall with your hands resting on your lower ribs — not on your head, and not bent over with your hands on your knees — and breathe only through your nose. Count the breaths until your breathing is fully normal, and remember the number. Next week, try to beat it by one. This teaches you what your own recovery looks like, which is a piece of self-knowledge most adults never acquire.
+**Attention practice — The outside view.** Before you read the pre-print, write down what you expect the paper to find, based on what you know about the field. Then read it. Compare. The outside view is what you know before you know the specifics.
 
-**Concept.** Belonging is not something you achieve.
+**Key idea.** The frontier of your field is not in your field.
 
-**Verse.** 1 Peter 2:9 — *"But you are a chosen people, a royal priesthood, a holy nation, God's special possession."*
+**Reading.** Any recent pre-print from arXiv stat.ME, arXiv stat.ML, SSRN, or bioRxiv that looks interesting to you. The reading is the practice this week.
 
-**Teaching.** Peter calls the church a chosen people, a royal priesthood, a people belonging to God, and every one of those phrases is stated as an accomplished fact rather than a goal. Nobody in the New Testament is told to become what they already are; they are told to live like it. Fatigue is where the difference shows, because tired people revert to whatever they actually believe about themselves. Today you will get out of breath on purpose, and the only thing to notice is whether your self-talk changes when you do. If it does, remember what it said, and bring it to the circle.
-
----
-
-### Week 8 · Saturday, February 21, 2026
-
-**Body work — flow and circle week.** Footwork to a slow count, then partner mirroring at arm's length plus one step, with no contact and no speed. One person leads, the other matches exactly, then you switch.
-
-**Breath practice — "Mirror."** Facing a partner at a comfortable distance, both of you breathe four in and six out and try to synchronize without speaking. The leader of the drill leads the breath; the other follows. Then swap. This is attention training for another person, and it is surprisingly difficult, because most of us would rather perform than attune.
-
-**Concept.** The self that needs to win.
-
-**Verse.** Galatians 2:20 — *"I have been crucified with Christ and I no longer live, but Christ lives in me."*
-
-**Teaching.** Paul writes that he has been crucified with Christ and no longer lives, and yet he plainly still has a personality, a temper, and opinions. What he is denying is not that he exists but that his existence is the point. There is a self in each of us that needs to win, needs to be right, and needs the other person to be worse. Today's mirroring drill makes that self visible, because the instant your partner moves, something in you wants to beat them to it. Try instead to be matched exactly, which is harder than winning and is the beginning of the character this program is actually after.
+**Teaching.** Most people learn from textbooks and published papers, which means they learn what the field knew five years ago. The frontier is in pre-prints, and the people doing the work are reachable. A short email with a specific question is not an imposition; it is a compliment. The worst that happens is silence. The best that happens is a conversation that changes how you think about your own work. This week's practice is to send one email to one author of one pre-print. That is the whole assignment.
 
 ---
 
-## Block 3 — Structure and Frame
-**Weeks 9–12 · Winter · February 28 to March 21 · Body-work rhythm: teach, repetition, capacity, flow**
+## Block 2 — Causal Foundations
+**Weeks 5–8 · Theme: The grammar of causation · Body-work rhythm: teach, repetition, capacity, flow**
 
-**Why this block, why now.** Late winter is when a group loses people, so this block is built to be taught standing still, in a coat, with gloves on. It is also the block where a participant first experiences another person's weight against them, at a level that could not hurt a child. Frame work is the alternative to strength: it replaces muscle with arrangement, which is exactly the lesson most people need and none of them expect.
+**Why this block, why now.** January was about noticing. February is about the vocabulary and the diagrams that let you say precisely what you mean. This block is the grammar of causal inference: the difference between association and causation, the DAG as a tool for stating assumptions, and the potential outcomes framework as a way of defining what you are trying to estimate. None of it is mathematically hard. All of it is conceptually demanding.
 
-**What a newcomer should expect.** A partner's hand, forearm, or shoulder will be placed against your forearm, and they will push gently after you say out loud that it is all right to. Nobody grips you. Nobody moves you. You may sit out the partner portion of any drill in this block and still take part in the whole session.
-
----
-
-### Week 9 · Saturday, February 28, 2026
-
-**Body work — teach week.** The frame: elbow down, forearm up, shoulder connected to the ribs, weight through the whole foot. Practiced alone against a wall, then with a partner's palm on your forearm at about thirty percent effort, and only after both of you agree out loud on that number.
-
-**Breath practice — "Braced Breath."** In a plank or a standing frame, breathe in through the nose for four and out for six while holding your trunk tight enough that your spine does not move. The test is simple: if your hips sag when you exhale, you are holding your breath instead of bracing. This is the practice that separates people who can be calm under load from people who can only be strong in a burst.
-
-**Concept.** Courage is commanded, not felt.
-
-**Verse.** Joshua 1:9 — *"Be strong and courageous. Do not be afraid; do not be discouraged, for the Lord your God will be with you wherever you go."*
-
-**Teaching.** God tells Joshua three times in one paragraph to be strong and courageous, which is a very strong hint that Joshua was afraid. Courage in Scripture is not the absence of fear; it is a command given to a frightened person and repeated until he moves. Notice that the command comes attached to a reason — the Lord your God will be with you wherever you go — and not to a pep talk about how capable Joshua is. Today we build a frame, which is simply the shape your skeleton makes when it is asked to hold something. A frame does not require you to be strong, only to be arranged correctly.
+**What a newcomer should expect.** Diagrams and definitions. No equations. By the end of the month, you will be able to draw a DAG for a simple problem and explain why a particular variable is a confounder and not a collider.
 
 ---
 
-### Week 10 · Saturday, March 7, 2026
+### Week 5 · Correlation, causation, and the ladder of causation
 
-**Body work — repetition week.** Frame and post, many times: build the frame, post a hand, recover the frame, step out. With a partner at the same agreed low effort, and with the wall when no partner is available. No grabbing is allowed at any point, and if a hand closes into a grip the pair resets.
+**Practice — teach week.** Take three correlations from the news or from your work. For each one, draw a DAG with three variables: the treatment, the outcome, and one plausible third variable. Then answer: is the third variable a confounder, a collider, or a mediator? Draw the arrows. Repeat until you can do it without thinking.
 
-**Breath practice — "Stillness."** Sit or stand for three minutes with no counting, no technique, and no words. Eyes open, gaze soft, breathing however it wants to breathe. Psalm 46:10 says to be still, and this is the closest most of us get in a week, so it will feel longer than three minutes and that is the practice.
+**Attention practice — The DAG sketch.** Before you analyze any relationship, draw a DAG. The DAG does not have to be right; it has to be explicit. The act of drawing forces you to state what you believe about the causal structure.
 
-**Concept.** Stillness in the presence of God.
+**Key idea.** Correlation is a fact. Causation is a claim about a counterfactual.
 
-**Verse.** Psalm 46:10 — *"Be still, and know that I am God."*
+**Reading.** "The Book of Why" — Pearl & Mackenzie, Chapter 1. Or, if you prefer a paper: "Causal Diagrams for Empirical Research" — Pearl (1995). The book chapter is more readable.
 
-**Teaching.** Be still and know that I am God is not an invitation to relax; it is an instruction issued to a city in an uproar. The stillness in that verse is the stillness of a person who has stopped trying to manage the outcome. In today's drill your partner will lean on your frame and nothing will happen if you are arranged well, and that is the whole verse, in miniature. Most of us answer pressure by pushing back harder, and the frame quietly teaches the opposite. The right structure needs no pushback at all.
-
----
-
-### Week 11 · Saturday, March 14, 2026
-
-**Body work — capacity week.** Brace ladders: hold a brace for ten seconds, rest for ten, six rounds. Then low-load pressing with anything odd and heavy — a jug of water, a sandbag, a toolbox — with an exhale on the effort and never a held breath.
-
-**Breath practice — "Physiological Sigh."** Two inhales through the nose, the second a short top-up, then a long sigh out through the mouth as if you were fogging a window. Five of those, then let the breath return to normal for one minute. This is the fastest reliable way to discharge acute stress, it requires no training, and it is worth using in the parking lot before you walk into a hard conversation.
-
-**Concept.** A sound mind under pressure.
-
-**Verse.** 2 Timothy 1:7 — *"For God has not given us a spirit of fear, but of power and of love and of a sound mind."*
-
-**Teaching.** Paul tells Timothy that God did not give us a spirit of timidity, but of power, love, and a sound mind. The phrase translated sound mind means something closer to self-discipline or settled judgment, the capacity to think clearly while something is happening. That is a trainable quality, and it is the entire reason this program does capacity work rather than only technique. Today you will hold a brace until it is uncomfortable and then be asked a simple question, and the question is the point. If you cannot produce your own middle name while bracing, you have found the edge, and the edge is where the practice lives.
+**Teaching.** The ladder of causation has three rungs: association, intervention, and counterfactual. Most data analysis stops at the first rung. Causal inference is about climbing to the second and third. The DAG is the tool that lets you see which rung you are on. A correlation between two variables is an association. An arrow between them is a claim about intervention. A counterfactual is a claim about what would have happened if things had been different. Today we practice drawing the arrows.
 
 ---
 
-### Week 12 · Saturday, March 21, 2026
+### Week 6 · DAGs — drawing your assumptions
 
-**Body work — flow and circle week.** Frame, post, and step out, continuously and slowly, with a partner at low effort. The quarter closes with a review: anyone who wants to may demonstrate one thing from January, February, or March, and be applauded for it.
+**Practice — repetition week.** Draw DAGs for five different problems from your work or your field. For each one, identify the backdoor paths and the variables you would need to adjust for. Then identify one variable you cannot measure and explain what that means for your analysis. Repeat until drawing a DAG takes less than five minutes.
 
-**Breath practice — "Cold Close."** Standing outside, four in and six out, ten rounds, hands relaxed and shoulders down. Then one sentence of thanks, spoken out loud if you are willing. The practice ends the quarter the way it began, with the body quiet and the attention wide.
+**Attention practice — The DAG sketch (continued).** This week, draw the DAG before you look at the data. Then draw it again after. Compare. The difference between the two DAGs is what you learned from the data.
 
-**Concept.** Authority over the storm.
+**Key idea.** A DAG is a confession of your assumptions.
 
-**Verse.** Mark 4:39 — *"He got up, rebuked the wind and said to the waves, 'Quiet! Be still!' Then the wind died down and it was completely calm."*
+**Reading.** "Causal Diagrams for Empirical Research" — Pearl (1995). Focus on the backdoor criterion and the examples.
 
-**Teaching.** The disciples wake Jesus in a storm and accuse him of not caring, which is the most honest line in the whole passage. He gets up, speaks to the wind, and then turns and asks them why they are afraid, in that order. This month's frame work was about becoming a person who does not add to the noise in a room, and that is a small version of the same authority. A settled body in the middle of chaos changes what everyone else in the room is able to do. Close this quarter by naming one situation in the coming weeks where you want to be the unreasonable calm.
-
----
-
-## Block 4 — Ground Movement and Rising
-**Weeks 13–16 · Spring · March 28 to April 18 · Body-work rhythm: teach, repetition, capacity, flow**
-
-**Why this block, why now.** The ground thaws in late March, and with it comes the part of the year that most people are quietly afraid of. So this block is not about fighting on the ground. It is about the two things that make ground work safe and useful for an ordinary person: how to land, and how to get up. If a person leaves this month knowing only how to stand up off the floor without using their hands, the entire year has paid for itself.
-
-**What a newcomer should expect.** Falling is taught on mats, on soft grass, and only after you have practiced the specific landing several times at knee height. Nobody is thrown. Nobody is taken down. The first ten minutes of week thirteen are a ground inspection, and if the surface is frozen, rocky, or glassy, we do not do the falling portion and we do the standing portion instead.
+**Teaching.** A DAG is not a picture of reality. It is a picture of what you believe about reality, stated precisely enough that someone else can disagree with you. The backdoor criterion is a rule for identifying a set of variables to adjust for so that the remaining association is causal. If you can block all backdoor paths, you can estimate the effect. If you cannot, you need a different design. Today we practice drawing DAGs until they become a habit.
 
 ---
 
-### Week 13 · Saturday, March 28, 2026
+### Week 7 · Confounders, colliders, and mediators
 
-**Body work — teach week.** Ground inspection first: walk the area, remove stones and glass, decide where mats go. Then the technical stand-up, taught in four steps and repeated at half speed, and the basic breakfall practiced first from sitting, then from a low squat, never from standing in the first session.
+**Practice — capacity week.** Take a dataset with at least five variables. For each pair of variables, classify the relationship as confounded, collided, or mediated. Then run a simple regression with and without controlling for the third variable. Notice how the coefficient changes. The change is the signature of the causal structure.
 
-**Breath practice — "Breath on the Floor."** Lying on your back on the mat, one hand on your belly and one on your chest, breathe in for four and out for six, and let the lower hand move first. Four minutes, no talking. Lying down in a group of adults is oddly exposing, and doing it with a slow breath is how a room full of strangers becomes safe.
+**Attention practice — The collider check.** Before you control for a variable, ask: is this a confounder, a collider, or a mediator? If it is a collider, controlling for it will make things worse. If it is a mediator, controlling for it will hide the effect you are trying to measure.
 
-**Concept.** Getting up is the practice.
+**Key idea.** Controlling for the wrong variable is worse than not controlling at all.
 
-**Verse.** Psalm 40:2 — *"He lifted me out of the slimy pit, out of the mud and mire; he set my feet on a rock and gave me a firm place to stand."*
+**Reading.** "A Crash Course in Good and Bad Controls" — Cinelli, Forney, & Pearl (2022). A practical guide to the most common mistakes in regression analysis.
 
-**Teaching.** The psalm does not say God kept David out of the pit; it says he lifted him out of it. That is a different promise, and a more useful one, because most of us have already been in the pit and know what the bottom looks like. The technical stand-up is a rehearsal of that verse with your body, and it is why we teach it before anything else on the floor. The first time you rise without scrambling, something in your chest relaxes that no amount of encouragement would have reached. That is the whole reason this block exists.
-
----
-
-### Week 14 · Saturday, April 4, 2026
-
-**Body work — repetition week.** Shrimp, bridge, and sit-out, ten repetitions each side, done slowly and separately. Then the technical stand-up again, twenty times, alternating sides. No partner, no clock, no hurry.
-
-**Breath practice — "Up and Down."** Pair the breath with the technical stand-up: exhale as you rise, inhale as you return to the ground. Eight slow repetitions, then four rounds where the breath is the only thing you are paying attention to. This teaches the pattern that keeps people from holding their breath during hard effort, and it teaches that breathing is part of technique rather than an interruption of it.
-
-**Concept.** Falling is normal, not failure.
-
-**Verse.** Micah 7:8 — *"Do not gloat over me, my enemy! Though I have fallen, I will rise."*
-
-**Teaching.** Micah writes to a people who have already been defeated and are telling their enemy not to celebrate too soon. He does not say the fall did not happen, and he does not say it was not serious. He says the falling is not the end of the story, and that the rising belongs to God rather than to the person's own effort. Today you will fall twenty times on purpose, which is the only way anyone ever learns that a fall can be boring. Boring is the goal this week; a fall that frightens you is a fall you will avoid for the rest of your life.
+**Teaching.** The most common mistake in observational analysis is controlling for a collider. A collider is a variable that is caused by both treatment and outcome. Controlling for it creates a spurious association where none existed. The second most common mistake is controlling for a mediator, which hides the effect you are trying to measure. Today's practice is to classify every control variable before you use it. If you cannot classify it, do not control for it.
 
 ---
 
-### Week 15 · Saturday, April 11, 2026
+### Week 8 · Potential outcomes and counterfactuals
 
-**Body work — capacity week.** A ground circuit: get-ups, crawls, bridges, and shrimp, eight minutes continuous but slow, with the option of resting whenever needed. The rule of the circuit is that form breaks the set, not fatigue.
+**Practice — flow and circle week.** Take a causal question from your work. Define the treatment, the outcome, and the potential outcomes under treatment and control. Write down the fundamental problem of causal inference: you can never observe both potential outcomes for the same unit. Then explain how your study design addresses that problem. The circle afterward runs long.
 
-**Breath practice — "Crawl Breath."** Nasal breathing only for the whole circuit, mouth closed. If you find yourself needing to open your mouth, that is your signal to slow down or take a break, not a signal to push through. This is a pacing practice, and it is the most portable training tool in this document, because you can use it on a staircase, on a hike, or while carrying groceries.
+**Attention practice — The counterfactual question.** Before you analyze any effect, ask: what is the counterfactual? What would have happened if the treatment had not occurred? If you cannot answer that question, you do not have a causal question.
 
-**Concept.** The repetition of rising.
+**Key idea.** Causal inference is the science of estimating what did not happen.
 
-**Verse.** Proverbs 24:16 — *"For though the righteous fall seven times, they rise again."*
+**Reading.** Chapter 1 of *Causal Inference: What If* by Hernán and Robins. Focus on the potential outcomes framework and the fundamental problem.
 
-**Teaching.** Seven times is a deliberately ridiculous number; it means more times than anyone would count. The proverb's point is not that righteous people are clumsy but that the rising is what marks them, and that it happens repeatedly rather than once. This is why the get-up is the center of the whole curriculum: it is the one skill you will use in old age, in illness, and after surgery, long after you have stopped caring about any of this. Today's circuit is eight minutes of that single verse, repeated until it is ordinary.
-
----
-
-### Week 16 · Saturday, April 18, 2026
-
-**Body work — flow and circle week.** A continuous get-up flow: lie down, breathe, rise, step, return, roll to one side, rise again. A partner shadows the same pattern beside you without touching. The circle afterward runs long, and this is the week to bring a friend.
-
-**Breath practice — "Long Circle."** Five and a half seconds in and five and a half seconds out, for five minutes, with the eyes soft and the jaw unclenched. This is called resonance breathing because at that pace the heart rate tends to rise and fall with the breath. It is the single most reliable long practice for most people, and it is the one to keep for the rest of your life.
-
-**Concept.** The servant is the one on the floor.
-
-**Verse.** John 13:14 — *"Now that I, your Lord and Teacher, have washed your feet, you also should wash one another's feet."*
-
-**Teaching.** Jesus washes feet in a room where nobody else has offered, and he does it knowing exactly who he is and where he is going. That is the detail worth noticing: he serves from security rather than from need. In this block, the person on the floor is the one doing the work, and in that position there is nothing impressive to look at. If you can be the lowest person in a room and remain unembarrassed, you have found the thing this program is trying to build.
+**Teaching.** The potential outcomes framework is the cleanest way to state a causal question. For each unit, there are two potential outcomes: the outcome under treatment and the outcome under control. We can only observe one. The causal effect is the difference between them, and it is fundamentally unobservable for any single unit. The whole enterprise of causal inference is about estimating that difference from groups of units, under assumptions that we state explicitly. Today we practice stating those assumptions.
 
 ---
 
-## Block 5 — Grip and Release
-**Weeks 17–20 · Spring · April 25 to May 16 · Body-work rhythm: teach, repetition, capacity, flow**
+## Block 3 — Experimental Design
+**Weeks 9–12 · Theme: The gold standard and its limits · Body-work rhythm: teach, repetition, capacity, flow**
 
-**Why this block, why now.** Hands and fingers are the most frequently injured part of any grappling practice, by a wide margin, and almost all of those injuries come from holding on when the right answer was to let go. So this block is deliberately named for both halves: the grip and the release. Spring ground is wet and hands are soft after winter, so tape your fingers if there is tape, and cut your fingernails short before week seventeen.
+**Why this block, why now.** March is when we start designing studies. Randomization is the most powerful tool in the causal inference toolkit, and it is also the most misunderstood. This block is about what randomization buys you, what it does not buy you, and how to design an experiment that answers a question worth asking.
 
-**What a newcomer should expect.** Light grips on a sleeve, an elbow, or the back of the neck, always announced before they happen and always released the moment anyone says stop. Nobody will grab your fingers. If you have arthritis, a previous hand injury, or a ring you cannot remove, tell the leader and you will work the release half of each drill without the grip half.
-
----
-
-### Week 17 · Saturday, April 25, 2026
-
-**Body work — teach week.** Gripping without a jacket: the collar tie behind the neck, the sleeve-and-elbow control, and the release. Taught standing, at walking pace, with the partner's hand placed rather than applied.
-
-**Breath practice — "Loose Hands."** Make a fist as you inhale for four, then release completely as you exhale for six, letting the fingers fall open. Eight rounds, then sit for one minute and notice your hands without moving them. This is a practice in letting go, and it is astonishing how many people cannot fully open a hand on command.
-
-**Concept.** The grip that holds is not yours.
-
-**Verse.** John 10:28 — *"I give them eternal life, and they shall never perish; no one will snatch them out of my hand."*
-
-**Teaching.** Jesus describes his people as held in a hand that nothing can pry open, and he says it in the middle of a conversation about how insecure everything else is. Notice where the security is located: not in the strength of the sheep's grip on him, but in his grip on the sheep. In today's drill you will practice both halves, and the reason is that a person who cannot release a grip is a person being dragged. The one who can open their hand is the one who decides what happens next.
+**What a newcomer should expect.** Experimental design, power analysis, and the logic of A/B testing. You will design an experiment, but you will not run one. The design is the practice.
 
 ---
 
-### Week 18 · Saturday, May 2, 2026
+### Week 9 · RCTs — what they do and don't tell you
 
-**Body work — repetition week.** Grip and strip, two-minute cooperative rounds, three rounds each, at half speed. The partner grips lightly; you remove the grip; then you swap. Anyone who accelerates gets a friendly reset, and this is said out loud before the first round rather than after.
+**Practice — teach week.** Design a randomized controlled trial for a question from your work. Define the treatment, the control, the outcome, the randomization unit, and the sample size. Then write down three things the trial will not tell you. The list of what it will not tell you is usually longer than the list of what it will.
 
-**Breath practice — "Soft Grip."** Hold a rolled towel or a rope in one hand and breathe four in and six out without tightening the hand at all. Six rounds. The instruction is to notice the involuntary squeeze that arrives with each inhale and to let it go. That involuntary squeeze is what this whole block is about.
+**Attention practice — The external validity check.** Before you design a trial, ask: who is in the sample, and who is not? What population do you want to generalize to, and how does the sample differ?
 
-**Concept.** Loosening what you are already carrying.
+**Key idea.** Randomization solves the confounding problem. It does not solve the generalization problem.
 
-**Verse.** Matthew 11:28 — *"Come to me, all you who are weary and burdened, and I will give you rest."*
+**Reading.** "The Surprising World of RCTs" — Deaton & Cartwright (2018). A critical but fair look at what RCTs can and cannot tell us.
 
-**Teaching.** The invitation in that verse is not to the strong, the disciplined, or the sorted out; it is specifically to the weary and the burdened. There is no qualifying exam, which is fortunate, because the usual reason people do not come is the belief that they should arrive with less to carry. In the drill today the release is the technique, and the grip is only there to give the release something to work against. The same is true of most of the things you are holding this week.
-
----
-
-### Week 19 · Saturday, May 9, 2026
-
-**Body work — capacity week.** Grip endurance: towel hangs if there is a bar, farmer carries if there is weight, and a rope pull if there is rope. Twenty to thirty seconds of work at a time, with full rest between, and an absolute rule against hanging to the point of losing the hand.
-
-**Breath practice — "Hang and Breathe."** While hanging from a bar or carrying a heavy weight in one hand, breathe four in and six out, and stop the moment the breathing changes shape. No breath holding, no straining, no closing the throat. This is where the earlier brace work pays off: the body learns that load and calm are not opposites.
-
-**Concept.** Letting go of the old hold.
-
-**Verse.** Philippians 3:13 — *"Forgetting what is behind and straining toward what is ahead."*
-
-**Teaching.** Paul had an impressive past he could have leaned on and a violent past he could have been crushed by, and he writes that he is forgetting both. Forgetting in that sentence does not mean losing the memory; it means no longer using it as a reference point. Most of us have a grip we keep out of habit long after the reason has gone, whether that is a grudge, a role, or a way of describing ourselves. Today's work is heavy on purpose, because it is easier to notice an old hold when your hands are tired.
+**Teaching.** A randomized controlled trial is the gold standard for estimating causal effects, but it is not a magic wand. Randomization breaks the link between treatment and confounders, which means the difference in outcomes between treatment and control is an unbiased estimate of the average treatment effect for the sample. But the sample is not the population, the treatment in the trial is not the treatment in the world, and the outcome in the trial is not the outcome that matters. Today we design a trial and then list everything it will not tell us.
 
 ---
 
-### Week 20 · Saturday, May 16, 2026
+### Week 10 · A/B testing and online experiments
 
-**Body work — flow and circle week.** Hold, strip, and step, continuously and slowly, with a partner. The block closes with one sentence from each person about what they noticed, and no corrections from anyone. This is also the week to hand the leading of the warm-up to someone who has never done it.
+**Practice — repetition week.** Take three A/B tests from your work or from a public case study. For each one, identify the treatment, the outcome, the randomization unit, and the metric. Then ask: what is the counterfactual? What would have happened if the treatment had not been deployed? Write down one way the test could be misleading.
 
-**Breath practice — "Open Palm."** Standing or sitting, turn both palms upward, rest them on your knees, and breathe four in and eight out for six rounds. Then let the breath go and sit for two minutes with the palms still open. The gesture is the practice: hands that are open cannot be clutching anything.
+**Attention practice — The metric check.** Before you run an A/B test, ask: is this metric a proxy for what we actually care about? If it is a proxy, what is the gap between the proxy and the thing itself?
 
-**Concept.** What you carry into the room.
+**Key idea.** An A/B test is an RCT with a business model attached.
 
-**Verse.** Hebrews 12:1 — *"Let us throw off everything that hinders and the sin that so easily entangles."*
+**Reading.** "Trustworthy Online Controlled Experiments" — Kohavi, Tang, & Xu, Chapter 1. A practical guide to the design and analysis of online experiments.
 
-**Teaching.** The image is of a runner taking off a coat, and the writer assumes the runner knows what the coat is. That is the hard part, because most of us are carrying something we have stopped noticing. This block was about hands for a practical reason — hands are where people get hurt — but it was also about the things you are holding that are not in your hands. Before the circle, name one of them to yourself. You do not have to say it out loud, and nobody will ask.
-
----
-
-## Block 6 — Load and Carrying
-**Weeks 21–24 · Spring · May 23 to June 13 · Body-work rhythm: teach, repetition, capacity, flow**
-
-**Why this block, why now.** This is the last block before the heat, so it carries the year's heaviest work, and it is the block that most directly teaches the most repeated command in the New Testament: bear one another's burdens. It is also the block with the best ratio of usefulness to skill, because the mechanics of lifting something heavy without hurting your back are transferable to every remaining day of a person's life.
-
-**What a newcomer should expect.** Weight is chosen by the person carrying it, every time, and anyone may drop it without explanation. Nothing is lifted overhead. Nothing is thrown. If a person has a back problem, a heart condition, or a hernia, they carry something light or nothing and they still coach the lift.
+**Teaching.** A/B testing is the most common form of experimentation in industry, and it is also the most commonly misused. The treatment is usually a product change, the outcome is usually a click or a purchase, and the randomization unit is usually the user. The fundamental problem is the same as in any RCT: you can only observe one potential outcome per unit. The difference is that the stakes are lower, the sample sizes are larger, and the metrics are often proxies. Today we practice identifying the proxy and asking what it misses.
 
 ---
 
-### Week 21 · Saturday, May 23, 2026
+### Week 11 · Factorial designs and heterogeneous effects
 
-**Body work — teach week.** Safe lifting from the ground: feet under the load, chest up, breathe in, brace, exhale on the lift. Practiced with a sandbag, a water jug, and, for those who volunteer, a partner's upper body in a supported carry.
+**Practice — capacity week.** Design a 2×2 factorial experiment for a question from your work. Define the two treatments, the four conditions, and the outcome. Then write down what you expect the interaction effect to be. The interaction is usually the most interesting part of a factorial design.
 
-**Breath practice — "Before the Load."** Rehearse the sequence with an empty hand: inhale through the nose, brace the trunk, then exhale slowly through the mouth as you stand up. Eight repetitions with nothing in your hands, then eight with a light weight. This is the practice that prevents the injury, because it puts the breath in the right place in the sequence rather than at the end.
+**Attention practice — The heterogeneity question.** Before you analyze an experiment, ask: for whom is this effect largest? The average effect is a summary, not a story.
 
-**Concept.** Load sharing, not load hiding.
+**Key idea.** The average effect is a useful summary. The heterogeneous effect is a useful decision tool.
 
-**Verse.** Galatians 6:2 — *"Carry each other's burdens, and in this way you will fulfill the law of Christ."*
+**Reading.** "Causal Inference for Statistics, Social, and Biomedical Sciences" — Imbens & Rubin, Chapter 1. Or, for a shorter read: "Heterogeneous Treatment Effects" — Athey & Imbens (2017).
 
-**Teaching.** The word Paul uses for burden here is the word for a load that is genuinely too heavy for one person, not the ordinary daily weight everyone is expected to manage. That distinction is worth saying clearly to a room full of people who have been told their whole lives to handle it themselves. The command is not to feel bad about someone's load, and not to advise them about it; it is to pick up part of it. Today you will practice picking something up that is too heavy for you alone, with someone else taking the other side.
-
----
-
-### Week 22 · Saturday, May 30, 2026
-
-**Body work — repetition week.** Carries: twenty meters, rest, twenty meters, six or eight rounds, alternating one-handed and two-handed. Nothing is carried for time; everything is carried for distance and posture.
-
-**Breath practice — "Carry Breath."** While carrying, breathe only through the nose. If you cannot, put the weight down, rest, and reduce it. The weight you can carry with a closed mouth is your real working weight, and it is usually much less than the weight people choose.
-
-**Concept.** Do not put weights on people.
-
-**Verse.** Matthew 23:4 — *"They tie up heavy, cumbersome loads and put them on other people's shoulders, but they themselves are not willing to lift a finger to move them."*
-
-**Teaching.** Jesus says this about religious leaders, and it is the sharpest thing he says about anyone in the whole Gospel. The failure is not that they had standards; it is that they loaded people and did not help. Any group can drift into this, including this one, and the drift is always well intentioned. So the test we apply to ourselves is simple: does the person carrying the weight get stronger, or do they just get tired? If it is only the second, we have become the people in that verse.
+**Teaching.** Most experiments are designed to estimate an average treatment effect. But the average is rarely what a decision-maker needs. They need to know who benefits most, who benefits least, and whether the effect is large enough to justify the cost for a particular subgroup. Factorial designs let you test multiple treatments and their interactions at once. Heterogeneous effects let you see whether the average is hiding a story. Today we design a factorial and predict the interaction.
 
 ---
 
-### Week 23 · Saturday, June 6, 2026
+### Week 12 · Power analysis and sample size
 
-**Body work — capacity week.** A loaded walk or ruck, twenty-five minutes at a conversational pace, with one hill or stair section repeated three times. Water on the line, and the session ends the moment anyone stops talking.
+**Practice — flow and circle week.** Take an experiment you are planning or would like to plan. Run a power analysis: what sample size do you need to detect an effect of the size you care about, with the level of confidence you need? Then ask: what would you do if you could only afford half that sample? The answer is usually a different design.
 
-**Breath practice — "Hill Breath."** Four steps in and four steps out on the climb, and the moment nasal breathing fails, you stop and stand until it returns. Nobody advances on a hill by force in this program. This is also where the group learns the difference between the discomfort of effort and the warning of genuine distress, which is a skill that has saved lives.
+**Attention practice — The minimum detectable effect.** Before you run any experiment, ask: what is the smallest effect that would change my decision? That is the effect you need to be powered to detect.
 
-**Concept.** Strength for the weary.
+**Key idea.** An underpowered study is worse than no study, because it produces a result that looks like evidence but is actually noise.
 
-**Verse.** Isaiah 40:31 — *"But those who hope in the Lord will renew their strength. They will soar on wings like eagles."*
+**Reading.** "Statistical Power and Why It Matters" — any good introduction. Or: Chapter 2 of *Mostly Harmless Econometrics* by Angrist & Pischke.
 
-**Teaching.** The promise is made to the weary, and the mechanism in the verse is hope rather than effort. Even youths grow tired and young men stumble, Isaiah says, which is a remarkably honest concession for a promise this large. The renewing in the verse is something received rather than manufactured, and a long walk with weight is a good place to learn the difference. You cannot will your way up a hill; you can only keep breathing and keep going at the pace the hill allows.
-
----
-
-### Week 24 · Saturday, June 13, 2026
-
-**Body work — flow and circle week.** A load-sharing relay: pairs move an awkward heavy object across the space, passing it back and forth, with no clock and no winner. Then a mid-year circle, twice as long as usual, with one question: what are you carrying that you did not choose?
-
-**Breath practice — "What I Am Carrying."** Five slow breaths, four in and eight out, and on each exhale name silently one weight you are setting down for the next hour. Not forever; just for the next hour. This is the practice of temporary release, which is the only kind most people can believe in at first.
-
-**Concept.** Capacity has a source.
-
-**Verse.** John 15:5 — *"Apart from me you can do nothing."*
-
-**Teaching.** A branch does not work at bearing fruit; it stays attached, and the fruit is a consequence. That is the model Jesus gives for a life that produces anything worth having, and it is the opposite of how most of us were trained to think about effort. This block asked you to carry heavy things, and the reason is not that strength is the goal. The reason is that carrying something heavy is the fastest way to find out how much of your life you are trying to do on your own.
+**Teaching.** Power analysis is the discipline of asking, before you run the study, whether the study can answer the question. An underpowered study is a waste of time and money, and it is also an ethical problem, because it exposes participants to risk without a reasonable chance of producing useful knowledge. Today we run power analyses for experiments we would actually like to run, and we practice the hard conversation about what to do when the sample is too small.
 
 ---
 
-## Block 7 — Breath and Pacing
-**Weeks 25–28 · Summer · June 20 to July 11 · Body-work rhythm: teach, repetition, capacity, flow**
+## Block 4 — Quasi-Experimental Methods
+**Weeks 13–16 · Theme: Natural experiments · Body-work rhythm: teach, repetition, capacity, flow**
 
-**Why this block, why now.** The breath block arrives in the season when breathing is hardest, which is either bad planning or the whole point. It is the lightest block of the year physically, and that is deliberate: in heat, the correct training response is less work, not more. Sessions start early, last forty-five to fifty minutes, and carry water on the line. Everything this month is about finding the pace you can hold rather than the pace you can survive.
+**Why this block, why now.** April is when we learn to find experiments that nature has already run. Most causal questions cannot be answered with randomization, either because it is unethical, impractical, or too expensive. Quasi-experimental methods exploit variation that is as-good-as-random — policy changes, thresholds, timing, and instruments — to estimate causal effects. This is the block that turns a data analyst into a causal engineer.
 
-**What a newcomer should expect.** Shorter sessions, slower movement, more shade, and more sitting still than any other month. If you arrive late and the group is already walking, you have missed nothing that will not be repeated. If you feel dizzy, sit down in the shade, drink water, and tell someone; nobody in this group will think less of you for it.
-
----
-
-### Week 25 · Saturday, June 20, 2026
-
-**Body work — teach week.** Naming your own pace: a walk, a fast walk, and a jog, each held for two minutes while reciting a sentence out loud. Then the same three speeds with the mouth closed, so people can feel where nasal breathing forces them to slow down.
-
-**Breath practice — "Box Breathing."** Inhale through the nose for four seconds, hold for four, exhale for four, hold for four, and repeat ten times. This is the plainest and most widely used breathing pattern there is, and it is worth knowing exactly: four counts, four sides of a square, no strain at any point. If four is uncomfortable, use three, and if you are pregnant or have a heart or lung condition, skip the holds entirely and make it a smooth four in and four out.
-
-**Concept.** Breathing is a gift, not a metric.
-
-**Verse.** Genesis 2:7 — *"Then the Lord God formed a man from the dust of the ground and breathed into his nostrils the breath of life."*
-
-**Teaching.** The first thing God gives the first human being is not a command, a purpose, or a warning; it is breath. Everything else in the story depends on that gift continuing, and none of us arranged for it. In a fitness culture, breathing becomes a number to improve, which is a strange way to treat a gift. This month, the only measurement we care about is whether you can still speak while you move.
+**What a newcomer should expect.** Four methods in four weeks: difference-in-differences, instrumental variables, regression discontinuity, and synthetic control. Each one has a different logic and a different set of assumptions. The practice is to apply each method to a real or simulated dataset.
 
 ---
 
-### Week 26 · Saturday, June 27, 2026
+### Week 13 · Difference-in-differences
 
-**Body work — repetition week.** Thirty seconds of easy jogging and thirty seconds of walking, ten rounds, on flat ground and in shade where possible. Everyone finishes able to talk. Anyone who cannot talk has permission to walk the rest.
+**Practice — teach week.** Find a policy change that affected one group but not another — a minimum wage increase, a new regulation, a marketing campaign in one region but not another. Construct a 2×2 table of treated/untreated and before/after. Calculate the difference-in-differences estimate. Then plot the pre-trends and ask: do they look parallel?
 
-**Breath practice — "Talk Test."** Walk fast enough that you can recite a sentence comfortably but cannot sing. Hold that pace for three minutes with your mouth closed. This is the single most useful fitness tool in this document, because it needs no equipment, no watch, and no numbers, and it is accurate enough for everything this program does.
+**Attention practice — The parallel trends test.** Before you trust a DiD estimate, plot the outcome over time for both groups. If the trends are not parallel before the treatment, the DiD estimate is suspect.
 
-**Concept.** The point of the lungs.
+**Key idea.** Difference-in-differences is a comparison of changes, not a comparison of levels.
 
-**Verse.** Psalm 150:6 — *"Let everything that has breath praise the Lord."*
+**Reading.** "Difference-in-Differences with Variation in Treatment Timing" — Goodman-Bacon (2021). A modern treatment of a classic method.
 
-**Teaching.** The last line of the book of Psalms does not say let everything that is talented, or healthy, or confident; it says everything that has breath. That means the qualification for praise is the thing you are doing right now without thinking about it. If your breathing is the entry requirement, then nobody in this group is disqualified. This is why the breath practice comes before the verse circle rather than after it.
-
----
-
-### Week 27 · Saturday, July 4, 2026
-
-**Body work — capacity week.** Twenty to twenty-five minutes of steady movement at a conversational pace, with a heart-rate ceiling of "can still speak a full sentence." No intervals this week. Heat is the load.
-
-**Breath practice — "Heat Protocol."** In heat there are no breath holds, no long exhales that leave you lightheaded, and no counting games. Breathe in through the nose for four and out through the mouth for six, seated in shade, for six rounds only. Then drink water and stop. This is a practice in restraint, and it is the pattern to use on any hot day for the rest of your life.
-
-**Concept.** Life is on loan.
-
-**Verse.** Job 33:4 — *"The Spirit of God has made me; the breath of the Almighty gives me life."*
-
-**Teaching.** Job says this in the middle of an argument about whether he deserves what has happened to him, and it is his one unshakeable starting point. His life is not his own possession; it is on loan and held open by something outside him. A hot July session teaches the same thing more cheaply than Job learned it. You do not get to decide how much heat your body tolerates, and pretending otherwise is how people end up in an ambulance.
+**Teaching.** Difference-in-differences is the workhorse of policy evaluation. The logic is simple: if the treated group and the control group were on parallel trends before the treatment, then any divergence after the treatment can be attributed to the treatment. The key assumption is parallel trends, and it is untestable. But you can test the pre-trends, and you can run placebo tests. Today we calculate a DiD estimate and then try to break it.
 
 ---
 
-### Week 28 · Saturday, July 11, 2026
+### Week 14 · Instrumental variables
 
-**Body work — flow and circle week.** A slow, breath-led flow with no clock and no counting: stand, walk, stop, breathe, move on. The circle is held in shade and runs long, and this is the week to bring someone who has been curious but nervous.
+**Practice — repetition week.** Find a candidate instrument for a causal question. The instrument must affect the treatment but have no direct effect on the outcome except through the treatment. Write down the exclusion restriction and the relevance condition. Then ask: is the instrument plausible? What would violate the exclusion restriction?
 
-**Breath practice — "In the Shade."** Five minutes of silence with a wide, soft gaze, looking at nothing in particular. Name silently, once, everything you can see at the edges of your vision, then everything you can hear, without turning your head. Then breathe four in and six out, six rounds, and stop. This is the awareness practice that the whole year is quietly building toward.
+**Attention practice — The exclusion restriction check.** Before you use an instrument, ask: is there any plausible path from the instrument to the outcome that does not go through the treatment? If there is, the instrument is invalid.
 
-**Concept.** Breathe in, sent out.
+**Key idea.** An instrument is a source of variation that is as-good-as-random.
 
-**Verse.** John 20:22 — *"And with that he breathed on them and said, 'Receive the Holy Spirit.'"*
+**Reading.** "Instrumental Variables" — Angrist, Imbens, & Rubin (1996). The classic paper on the LATE framework.
 
-**Teaching.** Jesus breathes on his frightened friends in a locked room and gives them the Spirit, and the next thing he does is send them. The breath and the sending are the same event, which is worth sitting with in a month devoted to breathing. The pattern in Scripture is consistent: God fills a person and then points them at somebody else. If this practice only ever makes you calmer, it has stopped halfway.
-
----
-
-## Block 8 — Balance and Uneven Ground
-**Weeks 29–32 · Summer · July 18 to August 8 · Body-work rhythm: teach, repetition, capacity, flow**
-
-**Why this block, why now.** Balance is the physical skill with the greatest effect on how long a person lives independently, and it is the one nobody trains because it is boring and it makes you look clumsy. Summer is the right time because it can be done barefoot on grass, at low intensity, in the shade, with a great deal of standing around. It is also the block where the awareness practice gets its fullest expression, because balance is what happens when attention and body finally cooperate.
-
-**What a newcomer should expect.** No falling this month. Every balance drill has a wall, a partner's hand, or a chair within reach, and using the support is not cheating; it is the drill. You will be asked to stand on one leg with your eyes closed, which is harder than it sounds and which nobody does gracefully the first time.
+**Teaching.** Instrumental variables is the method you use when you cannot randomize but you can find a source of variation that is as-good-as-random. The classic example is the draft lottery: whether you were drafted is an instrument for military service, because the lottery is random and the draft affects service. The key assumption is the exclusion restriction: the instrument affects the outcome only through the treatment. Today we find instruments and try to break them.
 
 ---
 
-### Week 29 · Saturday, July 18, 2026
+### Week 15 · Regression discontinuity
 
-**Body work — teach week.** Standing on one leg: eyes open and near a wall, then eyes open and away from the wall, then eyes closed with one fingertip on the wall. Twenty seconds each, both sides, three rounds. Barefoot on grass if the ground is clean.
+**Practice — capacity week.** Find a threshold rule — a test score cutoff, an age cutoff, a size cutoff — that determines treatment. Plot the outcome against the running variable. Look for a discontinuity at the threshold. If there is one, estimate the effect. If there is not, explain why.
 
-**Breath practice — "One Leg, One Breath."** Stand on one foot and breathe four in and six out, five breaths. Do not correct the wobble; let the ankle do its small work and keep the breath unchanged. Then swap feet. The practice is to notice that the wobble and the breath are connected, and that steadying the breath steadies the standing.
+**Attention practice — The continuity check.** Before you trust an RDD estimate, check that the running variable is continuous at the threshold. If units can manipulate their position relative to the threshold, the design is invalid.
 
-**Concept.** Ponder the path of your feet.
+**Key idea.** Regression discontinuity exploits the fact that units just above and just below a threshold are nearly identical, except for the treatment.
 
-**Verse.** Proverbs 4:26 — *"Give careful thought to the paths for your feet and be steadfast in all your ways."*
+**Reading.** "Regression Discontinuity Designs: A Guide to Practice" — Imbens & Lemieux (2008). A practical guide.
 
-**Teaching.** The proverb assumes that feet go where attention sends them, and that most of us are not paying attention. Careful thought in that sentence is not worry; it is the ordinary deliberation of a person who knows where they are going. Standing on one leg makes the connection obvious, because the moment your mind drifts, your body follows. Anyone who has ever tripped while thinking about something else has already tested this verse.
-
----
-
-### Week 30 · Saturday, July 25, 2026
-
-**Body work — repetition week.** Step-overs, walking a curb or a rope line, and the single-leg hip hinge with no weight. Slow, repeated, with a partner nearby and a great deal of standing around in the shade between sets.
-
-**Breath practice — "Curb Breath."** Walk a line or a curb and take one breath for every three steps: in for three steps, out for three steps. If you have to stop to keep the count, stop. This is coordination training with a low ceiling, which makes it suitable for heat and suitable for beginners.
-
-**Concept.** A lamp to your feet.
-
-**Verse.** Psalm 119:105 — *"Your word is a lamp for my feet, a light on my path."*
-
-**Teaching.** A lamp for the feet lights about one step ahead, not the whole road. That is a frustrating amount of light if you want a map, and it is exactly the amount you need if you are actually walking. The psalmist is not describing a plan; he is describing a person who can see the next step and takes it. This month's drills are all one step at a time, on purpose.
+**Teaching.** Regression discontinuity is the closest thing to a randomized experiment that you can find in observational data. The logic is that units just above the threshold and just below the threshold are nearly identical in every way except for the treatment. The key assumption is that the running variable is continuous at the threshold, which means nobody can manipulate their position. Today we plot the running variable and look for the discontinuity.
 
 ---
 
-### Week 31 · Saturday, August 1, 2026
+### Week 16 · Synthetic control
 
-**Body work — capacity week.** A balance circuit at low intensity: single-leg stands, step-overs, slow line walking, and a low hurdle or log to step across. Three rounds with full rest between, in shade, with water.
+**Practice — flow and circle week.** Find a case where a single unit received a treatment — a city, a country, a company — and many other units did not. Construct a synthetic control: a weighted combination of untreated units that matches the treated unit on pre-treatment outcomes. Then compare the treated unit to its synthetic control after the treatment. The difference is the effect.
 
-**Breath practice — "Wide Field."** Stand still and look at the horizon, or at the furthest thing you can see. Without moving your eyes to the center of anything, let your attention spread out until you are aware of what is happening at the left and right edges of your vision. Hold that wide attention and breathe four in and six out for six rounds. Then keep the wide field while you stand on one leg. This is the core practice of the whole year: gentle, unhurried, and intensely aware of everything in the space.
+**Attention practice — The pre-treatment fit.** Before you trust a synthetic control estimate, check the pre-treatment fit. If the synthetic control does not match the treated unit before the treatment, it is not a valid counterfactual.
 
-**Concept.** The gaze determines the balance.
+**Key idea.** Synthetic control is a way to construct a counterfactual for a single treated unit.
 
-**Verse.** Matthew 14:29–30 — *"Then Peter got down out of the boat, walked on the water and came toward Jesus. But when he saw the wind, he was afraid."*
+**Reading.** "Synthetic Control Methods for Comparative Case Studies" — Abadie, Diamond, & Hainmueller (2010). The classic paper.
 
-**Teaching.** Peter does the impossible thing while looking at Jesus, and then he shifts his gaze to the wind and immediately does the ordinary thing, which is sink. The text is careful about the sequence: he saw the wind, and then he was afraid, and then he went down. Attention came first. This is why we practice a wide field rather than a narrow stare, because a person whose attention is fixed on one threat cannot see the two exits beside it.
-
----
-
-### Week 32 · Saturday, August 8, 2026
-
-**Body work — flow and circle week.** A balance flow, unhurried: stand, shift, single leg, step over, walk the line, stop, breathe. A partner is available for a hand at any point. The season closes with a long circle, and this is the week to hand the warm-up to a first-time leader.
-
-**Breath practice — "Gaze and Breath."** Fix your eyes on one small point for one minute while breathing four in and six out. Then soften your eyes to the wide field for one minute with the same breath. Alternate three times. Notice which one your body prefers, and notice that you can choose.
-
-**Concept.** Fixing your eyes on Jesus.
-
-**Verse.** Hebrews 12:2 — *"Fixing our eyes on Jesus, the pioneer and perfecter of faith."*
-
-**Teaching.** The verb in that sentence is a deliberate one: it means to look away from one thing and toward another, not simply to look. The runner in the image is not staring vaguely at the sky; they have chosen a point and are refusing to be turned. Today's practice gives you both settings, the narrow and the wide, and the point is that you can move between them on purpose. Fear grabs the narrow setting and will not let go. Faith chooses it, and then chooses again.
+**Teaching.** Synthetic control is the method you use when you have one treated unit and many untreated units, and you want to know what would have happened to the treated unit if it had not been treated. The synthetic control is a weighted average of the untreated units that matches the treated unit on pre-treatment outcomes. The key assumption is that the synthetic control is a valid counterfactual, which you check by looking at the pre-treatment fit. Today we build a synthetic control and try to break it.
 
 ---
 
-## Block 9 — Cooperative Flow and Mercy
-**Weeks 33–36 · Summer · August 15 to September 5 · Body-work rhythm: teach, repetition, capacity, flow**
+## Block 5 — Observational Methods
+**Weeks 17–20 · Theme: When you can only observe · Body-work rhythm: teach, repetition, capacity, flow**
 
-**Why this block, why now.** This is the first block of the year with continuous partner movement, and it arrives eight months in, after people have learned to stand, to move, to escape, to carry, and to breathe. Even now, there are no live rounds, no submissions, no striking, and no scoring. What there is, is two people moving slowly through positions, one giving way to the other by agreement, with a third person watching. It is the least impressive block of the year and the one that changes people the most.
+**Why this block, why now.** May is when we confront the hardest problem in causal inference: what do you do when you cannot randomize, cannot find a natural experiment, and can only observe? This block is about the methods that let you make causal claims from observational data, and the sensitivity analyses that tell you how much those claims depend on assumptions you cannot test.
 
-**What a newcomer should expect.** You will be paired with someone experienced, the pace is agreed out loud before every round, and either person can stop the round at any time by saying the word "reset." A referee watches every pair. Nobody will win anything, and there is nothing to win.
-
----
-
-### Week 33 · Saturday, August 15, 2026
-
-**Body work — teach week.** Cooperative flow: one person moves slowly toward a position, the other responds slowly, and both stop before anything locks. Half speed, no resistance, no grabbing, and a spoken "reset" that returns both people to standing.
-
-**Breath practice — "Fifty Percent Breath."** In flow, breathe loudly enough that your partner can hear you. Your breathing is the pace signal: if they can hear you, the speed is right, and if they cannot, you are working too hard and the round slows down. This makes the breath a shared instrument instead of a private one.
-
-**Concept.** Peacemaking is an action.
-
-**Verse.** Matthew 5:9 — *"Blessed are the peacemakers, for they will be called children of God."*
-
-**Teaching.** Notice that Jesus does not say blessed are the peacekeepers, and the difference is the whole block. A peacekeeper avoids the conflict; a peacemaker walks into it slowly and does something about it. That requires a body that is not afraid, which is why this drill comes in week thirty-three rather than week three. Half speed is not a compromise; it is the training condition that makes peacemaking possible.
+**What a newcomer should expect.** Propensity scores, matching, weighting, sensitivity analysis, and negative controls. This is the most technically demanding block of the year, and it is also the most practically useful for people working with real-world data.
 
 ---
 
-### Week 34 · Saturday, August 22, 2026
+### Week 17 · Propensity scores and matching
 
-**Body work — repetition week.** Two-minute flow rounds, three each, referee-supervised, positional only, with no submissions and no finishing. The referee stops the round at the first sign of confusion, irritation, or speed, and everyone thanks the referee out loud.
+**Practice — teach week.** Take an observational dataset with a binary treatment. Estimate the propensity score: the probability of treatment given covariates. Then match treated units to control units with similar propensity scores. Compare the matched sample to the full sample. Did matching change the estimate?
 
-**Breath practice — "Referee Breath."** The person watching breathes four in and six out and scans the whole space, not just the pair in front of them. The pair breathes together at half speed. Afterward, the referee reports what they saw, and the report is about pace and breathing rather than about who did well.
+**Attention practice — The balance check.** After matching, check whether the covariates are balanced between treated and control. If they are not, the matching did not work.
 
-**Concept.** As far as it depends on you.
+**Key idea.** The propensity score is a way to summarize many covariates into one dimension.
 
-**Verse.** Romans 12:18 — *"If it is possible, as far as it depends on you, live at peace with everyone."*
+**Reading.** "The Central Role of the Propensity Score in Observational Studies for Causal Effects" — Rosenbaum & Rubin (1983). The classic paper.
 
-**Teaching.** Paul adds two qualifiers that most people skip: if it is possible, and as far as it depends on you. That means peace is not always achievable, and that the part you are responsible for is only your part. This is a freeing sentence for anyone who has spent years trying to manage somebody else's temper. In the drill today, you are responsible for your own pace, your own hands, and your own words, and for nothing else.
-
----
-
-### Week 35 · Saturday, August 29, 2026
-
-**Body work — capacity week.** Technical rounds used as conditioning: continuous slow flow for four rounds of three minutes, with the referee keeping the pace honest. Effort is deliberately capped; anyone breathing hard is asked to slow down rather than stop.
-
-**Breath practice — "No Clench."** During a technical round, keep your jaw loose, your shoulders down, and your hands relaxed, and breathe four in and six out. At the end of the round, check whether your jaw aches. Almost everyone discovers they have been clenching for three minutes without noticing, which tells you what you do during a difficult conversation.
-
-**Concept.** A soft answer.
-
-**Verse.** Proverbs 15:1 — *"A gentle answer turns away wrath, but a harsh word stirs up anger."*
-
-**Teaching.** The proverb is not advice about being nice; it is an observation about mechanics, in the same way that a lever is a mechanical observation. A harsh word adds energy to a situation and a gentle one removes it, and this happens whether or not anybody deserves it. Notice that the gentle answer does not require you to agree, to give in, or to pretend. It requires only that you not add fuel, and that is a physical skill as much as a verbal one.
+**Teaching.** The propensity score is the probability of receiving treatment given a set of covariates. It is a way to reduce a high-dimensional matching problem to a one-dimensional problem. If two units have the same propensity score, they are equally likely to receive treatment, which means the treatment assignment is as-good-as-random within propensity score strata. Today we estimate propensity scores and check balance.
 
 ---
 
-### Week 36 · Saturday, September 5, 2026
+### Week 18 · Weighting and doubly robust methods
 
-**Body work — flow and circle week.** Full cooperative flow, slow, with a referee, ending with teach-back: each pair shows the group one thing they learned this month, in thirty seconds. The season closes with a shared meal if the group wants one, and no awards of any kind.
+**Practice — repetition week.** Take the same dataset from last week. Instead of matching, use inverse probability weighting: weight each unit by the inverse of its propensity score. Then estimate the treatment effect. Compare the weighted estimate to the matched estimate. Then try a doubly robust method, which combines weighting and regression. Compare all three.
 
-**Breath practice — "Unclench."** Sitting still, move your attention from your jaw to your shoulders, to your hands, to your belly, to your feet, and let each one soften on a long exhale. Go around that circuit six or seven times over five minutes, one slow exhale at each stop, and do not hurry the jaw. This is the practice to use in a car before you walk into your own house.
+**Attention practice — The weight check.** After weighting, check the distribution of weights. If a few units have very large weights, the estimate is fragile.
 
-**Concept.** The round has no retaliation.
+**Key idea.** Doubly robust methods give you two chances to be right.
 
-**Verse.** 1 Thessalonians 5:15 — *"Make sure that nobody pays back wrong for wrong, but always strive to do what is good for each other and for everyone else."*
+**Reading.** "Doubly Robust Estimation of Causal Effects" — Funk et al. (2011). A clear introduction.
 
-**Teaching.** Paul writes this to a church that was being harassed, which means he is not describing an easy situation. The instruction is not to pretend the wrong did not happen; it is to refuse the second wrong that retaliation would add. In flow, this is the moment when your partner makes a mistake and you have a choice about whether to punish it. Everyone gets that choice many times in a three-minute round, and it is the same choice you get in traffic.
-
----
-
-## Block 10 — Power Under Authority
-**Weeks 37–40 · Autumn · September 12 to October 3 · Body-work rhythm: teach, repetition, capacity, flow**
-
-**Why this block, why now.** This is the only month of the year with any striking in it, and the reason it is placed here rather than earlier is that a person should not be taught to hit something until they have spent eight months learning to stand, breathe, carry, and let go. Everything struck this month is a bag or a pad. No person is struck, no head is a target, and there is no sparring. The subject of the month is not power; it is restraint.
-
-**What a newcomer should expect.** Gloves if the group has them, and bare hands or wrapped hands if it does not. One-minute rounds, plenty of rest, and a hard rule that any strike above the shoulders ends the drill. If you would rather not strike anything, you may hold the pad, and holding the pad is a full participation.
+**Teaching.** Inverse probability weighting is a way to create a pseudo-population in which treatment is independent of covariates. Doubly robust methods combine weighting and regression, so that the estimate is consistent if either the propensity model or the outcome model is correct. This is a useful property, but it is not a license to be sloppy. Today we compare matching, weighting, and doubly robust estimation on the same data.
 
 ---
 
-### Week 37 · Saturday, September 12, 2026
+### Week 19 · Sensitivity analysis
 
-**Body work — teach week.** Bag or pad mechanics: feet planted, hips turning, weight transferring, hand returning to guard. Taught at half speed with no contact at all for the first ten minutes, then at low power. Striking a bag is not the same as being able to fight, and we say so out loud.
+**Practice — capacity week.** Take a causal estimate from your work. Run a sensitivity analysis: how strong would an unmeasured confounder have to be to explain away the effect? Use the E-value, which is the minimum strength of association that an unmeasured confounder would need to have with both treatment and outcome to fully explain away the observed effect. Calculate it. Then ask: is that plausible?
 
-**Breath practice — "Exhale Into It."** Breathe in through the nose, and exhale sharply through the mouth as the hand lands on the bag. Never hold the breath and strain with a closed throat; that is the pattern that makes people dizzy and gives some people headaches. Ten slow strikes with a full exhale on each, then thirty seconds of normal breathing.
+**Attention practice — The sensitivity audit.** After every observational estimate, ask: how much would the result change if there were an unmeasured confounder? If the answer is "a little," you have a robust result. If the answer is "a lot," you have a fragile one.
 
-**Concept.** Power that obeys.
+**Key idea.** Every observational estimate is a claim that depends on assumptions. Sensitivity analysis tells you how much.
 
-**Verse.** Luke 7:8 — *"For I myself am a man under authority, with soldiers under me. I tell this one, 'Go,' and he goes."*
+**Reading.** "Sensitivity Analysis in Observational Research: Introducing the E-Value" — VanderWeele & Ding (2017). A practical guide.
 
-**Teaching.** A centurion says this to Jesus about his own household, and it is one of the few times in the Gospels that someone's understanding of authority is praised. The point is not that he has power; it is that he is inside a chain of command and therefore knows what a single spoken word can do. Everything this month is built on that picture: strength that has a commander behaves differently from strength that does not. A punch with no one to answer to is just violence with better technique.
-
----
-
-### Week 38 · Saturday, September 19, 2026
-
-**Body work — repetition week.** Three rounds of one minute on the bag, with two minutes of rest between, at low power and high attention. Every strike begins from a reset position and ends by returning to it. Volume is deliberately small, because the point is the return, not the strike.
-
-**Breath practice — "Restraint Breath."** Between rounds, breathe in for four, hold for seven, out for eight, three times, and then breathe normally. The seven-count hold is the part that is uncomfortable for most people, and the discomfort is the lesson. Count how many times, in a single round, you wanted to hit harder than you agreed to.
-
-**Concept.** Put the sword back.
-
-**Verse.** Matthew 26:52 — *"Put your sword back in its place, for all who draw the sword will die by the sword."*
-
-**Teaching.** Jesus says this to a disciple who is defending him, which is the hardest possible moment to hear it. The one being arrested tells the one with the weapon to put it down, and then heals the man who was struck. The instruction is not that weapons are always wrong; it is that his kingdom does not advance by them. In this drill, the moment you feel the impulse to hit harder, you have found the exact place where that verse applies to you.
+**Teaching.** Sensitivity analysis is the discipline of asking how wrong you could be. The E-value is a simple tool: it tells you how strong an unmeasured confounder would have to be to explain away the observed effect. If the E-value is large, the result is robust. If it is small, the result is fragile. Today we calculate E-values for real estimates and have the hard conversation about what they mean.
 
 ---
 
-### Week 39 · Saturday, September 26, 2026
+### Week 20 · Negative controls and falsification tests
 
-**Body work — capacity week.** Pushing: a sled, a tire, a loaded wheelbarrow, or a car in neutral on flat ground, six pushes of fifteen to twenty meters. Or a steep hill walked with weight. Medicine balls are carried and pressed, never thrown overhead.
+**Practice — flow and circle week.** Take a causal design from your work. Identify a negative control outcome — an outcome that should not be affected by the treatment if your design is valid. Test it. If the treatment affects the negative control, your design has a problem. Then identify a placebo test — a fake treatment that should show no effect. Run it. The circle afterward runs long.
 
-**Breath practice — "Push Breath."** Exhale as you drive, inhale as you reset, and never hold your breath while pushing. If you feel pressure behind your eyes or in your head, stop and stand up. This is the practical version of the instruction against straining with a closed throat, and it matters more in pushing than in almost anything else we do.
+**Attention practice — The falsification test.** Before you trust a causal design, ask: what test would this design fail if the assumptions were wrong? Then run that test.
 
-**Concept.** Choosing the hard thing.
+**Key idea.** A design that cannot fail is not a design.
 
-**Verse.** John 18:11 — *"Shall I not drink the cup the Father has given me?"*
+**Reading.** "Negative Controls: A Tool for Detecting Confounding and Bias in Observational Studies" — Lipsitch, Tchetgen, & Cohen (2010). A clear introduction.
 
-**Teaching.** Jesus says this in a garden, moments before his arrest, having just asked for the cup to be taken away. Both things are true in the same prayer: he does not want it, and he accepts it. That is the shape of every genuinely hard choice a person makes, and it is worth naming plainly because a great deal of bad teaching suggests that acceptance means not minding. The cup in your life this month is probably not dramatic, and it is still a cup.
-
----
-
-### Week 40 · Saturday, October 3, 2026
-
-**Body work — flow and circle week.** Pad rounds at low power with generous rest, then a full recovery session: easy movement, stretching, and an open circle twice as long as usual. Anyone who wants to lead a portion may lead it.
-
-**Breath practice — "Three Breaths Between."** After each round, take three slow breaths before you say anything to anybody. Not one, and not none. Three. This is a small rule with an enormous effect on how a group talks to each other, and it is worth carrying into every argument you have this year.
-
-**Concept.** The whole standard, in one verse.
-
-**Verse.** Micah 6:8 — *"And what does the Lord require of you? To act justly and to love mercy and to walk humbly with your God."*
-
-**Teaching.** Everything in this month could be summarized here, and it is worth noticing the order: justice first, mercy second, humility third. Justice without mercy becomes cruelty, and mercy without justice becomes cover-up, and both without humility become a performance. This verse has survived twenty-seven centuries because it cannot be gamed. If your training makes you harder and not more merciful, something has gone wrong with the training, not with the verse.
+**Teaching.** Negative controls are the cheapest and most powerful falsification tests available. A negative control outcome is an outcome that should not be affected by the treatment if the causal design is valid. If the treatment affects the negative control, the design is broken. A placebo test is the same idea with a fake treatment. Today we design negative controls and placebo tests for real studies, and we practice the discipline of trying to break our own results.
 
 ---
 
-## Block 11 — Escape and Refuge
-**Weeks 41–44 · Autumn · October 10 to October 31 · Body-work rhythm: teach, repetition, capacity, flow**
+## Block 6 — Machine Learning and Causality
+**Weeks 21–24 · Theme: Scaling causal inference · Body-work rhythm: teach, repetition, capacity, flow**
 
-**Why this block, why now.** Escape work is the most practical thing in the curriculum and the least exciting to watch, which is why it belongs in a month when the group is settled and nobody needs to be impressed. Almost nobody escapes a determined adult by force; almost everybody escapes by noticing early, moving first, and leaving. So the skill we teach is the exit and the words, in that order, and the theology we teach alongside it is that refuge is a person rather than a technique.
+**Why this block, why now.** June is when we bring in the machines. Machine learning has transformed causal inference in the last decade, mostly by making it possible to estimate heterogeneous treatment effects at scale. This block is about the intersection of ML and causality: causal forests, double/debiased machine learning, targeted maximum likelihood estimation, and causal discovery.
 
-**What a newcomer should expect.** A partner will hold your wrist or wrap their arms around you, lightly, having said out loud what they are going to do. You will be shown the exit, you will practice the exit, and then you will practice the sentence you say on the way out. Nothing is applied with force, and nothing is held for longer than a few seconds.
-
----
-
-### Week 41 · Saturday, October 10, 2026
-
-**Body work — teach week.** The two escapes that cover most real situations: the wrist release and the bear-hug release, both taught slowly and both ending in a step away rather than a counter-attack.
-
-**Breath practice — "Startle Reset."** Take one sharp inhale through the nose and let it out in a long sigh, five times, then return to a smooth four in and six out. This is what to do in the first ten seconds after anything frightening. It does not erase the startle, and it does not need to; it shortens the part where your thinking stops.
-
-**Concept.** Refuge is a person.
-
-**Verse.** Psalm 18:2 — *"The Lord is my rock, my fortress and my deliverer; my God is my rock, in whom I take refuge."*
-
-**Teaching.** David piles up nouns — rock, fortress, deliverer, shield, stronghold — because one word is not enough for what he found. A fortress is not a technique or a mindset; it is a place you go. In escape work, the exit is the goal and the counter-attack is not, which is the same instinct in physical form. The moment you start trying to win the encounter, you have left the fortress to go and fight in the open.
+**What a newcomer should expect.** This is the most technical block of the year. You will need to be comfortable with basic regression and basic ML concepts. If you are not, pair up with someone who is.
 
 ---
 
-### Week 42 · Saturday, October 17, 2026
+### Week 21 · Causal forests and heterogeneous treatment effects
 
-**Body work — repetition week.** Escapes at thirty percent effort, ten each side, each one paired with a spoken sentence: a calm, ordinary phrase that lowers the temperature and buys a step of distance. Practiced with a partner who accepts the sentence politely.
+**Practice — teach week.** Take an experiment or observational study with a binary treatment. Use a causal forest (or a similar method) to estimate the conditional average treatment effect for each unit. Then plot the distribution of estimated effects. Is the effect homogeneous or heterogeneous? Who benefits most?
 
-**Breath practice — "Breath Before Words."** Before you answer anything today, take one full exhale. In the drill, breathe out completely before you speak your line. It is a two-second practice, and it is the difference between responding and reacting, in a car, in a kitchen, and in a parking lot.
+**Attention practice — The heterogeneity plot.** Before you report an average effect, plot the distribution of effects. The average is a summary; the distribution is the story.
 
-**Concept.** Where you run.
+**Key idea.** Machine learning can find the subgroups where the effect is largest.
 
-**Verse.** Proverbs 18:10 — *"The name of the Lord is a strong tower; the righteous run to it and are safe."*
+**Reading.** "Estimation and Inference of Heterogeneous Treatment Effects using Random Forests" — Wager & Athey (2018). The paper that introduced causal forests.
 
-**Teaching.** The proverb has a direction in it: the righteous run to something, not away from something. That is a meaningful difference, because running away is what fear does and running to is what faith does, and they look almost identical from the outside. The name of the Lord is the tower, which means the refuge is a relationship rather than a place you can map. In the drill, the step back is the same motion; only the destination is different.
-
----
-
-### Week 43 · Saturday, October 24, 2026
-
-**Body work — capacity week.** Escapes under light fatigue: a short circuit of get-ups, steps, and releases, three rounds, with the rule that technique is allowed to slow but not to degrade. If the escape stops working, the round ends.
-
-**Breath practice — "Tired Escape Breath."** Nasal breathing only for the whole circuit. The moment your mouth opens, you have lost the pacing, and you stop and stand. A person who can escape while calm is a different thing from a person who can escape while panicking, and the difference is this practice.
-
-**Concept.** Being gotten out.
-
-**Verse.** Psalm 34:4 — *"I sought the Lord, and he answered me; he delivered me from all my fears."*
-
-**Teaching.** The psalm does not say the fears went away; it says he was delivered from them, which is a subtly different and much better promise. Being delivered from a fear means it no longer decides what you do. That is what an escape is, physically: not the absence of danger, but the end of being held in place by it.
+**Teaching.** Causal forests are a machine learning method for estimating heterogeneous treatment effects. They work by recursively partitioning the data into subgroups with similar treatment effects, and then estimating the effect within each subgroup. The result is a distribution of effects rather than a single average. This is useful for targeting: if you know who benefits most, you can allocate resources more efficiently. Today we estimate a causal forest and plot the distribution.
 
 ---
 
-### Week 44 · Saturday, October 31, 2026
+### Week 22 · Double/debiased machine learning
 
-**Body work — flow and circle week.** Slow scenario walk-throughs with no contact: a person approaches, you notice, you speak, you step off the line, you leave. Then a long circle, with the option for anyone to say something they have never said in this group before, and no requirement to.
+**Practice — repetition week.** Take an observational dataset with many covariates. Use double/debiased machine learning to estimate the treatment effect. The method uses ML to estimate the nuisance functions — the propensity score and the outcome model — while preserving valid inference on the causal parameter. Compare the estimate to a simple regression.
 
-**Breath practice — "Shelter Breath."** Five minutes, sitting, hands open on your knees, four in and six out. On each inhale, picture a strong tower; on each exhale, picture walking into it. This is not visualization for its own sake; it is practice at pointing your attention somewhere on purpose.
+**Attention practice — The nuisance check.** Before you trust a double ML estimate, check that the nuisance models are well-specified. If they are not, the estimate may be biased.
 
-**Concept.** Freedom as a fact, not a mood.
+**Key idea.** Double ML lets you use flexible models without sacrificing valid inference.
 
-**Verse.** John 8:36 — *"So if the Son sets you free, you will be free indeed."*
+**Reading.** "Double/Debiased Machine Learning for Treatment and Structural Parameters" — Chernozhukov et al. (2018). The foundational paper.
 
-**Teaching.** Jesus says this to people who are arguing with him about their ancestry, and he is not talking about a feeling. The freedom he describes is a status that has been granted, which means it does not fluctuate with your mood on a Tuesday. The practical consequence is enormous: you do not have to feel free in order to act free. You can just walk out the door.
-
----
-
-## Block 12 — Endurance and Rest
-**Weeks 45–48 · Autumn · November 7 to November 28 · Body-work rhythm: teach, repetition, capacity, flow**
-
-**Why this block, why now.** November is when a group stops showing up, because the year is long and the days are short. So this block is deliberately the easiest one of the year, and it teaches the thing that almost no fitness program teaches: how to rest. Everything is repeatable rather than maximal, the sessions are shorter, and the vocabulary of the month is sustainability. A group that learns to take an easy session together will still be meeting in three years.
-
-**What a newcomer should expect.** Nothing in this block will leave you sore. It will probably feel too easy, and that is not a mistake. If you have been pushing hard all year, this is the month that decides whether you are still doing this in five years.
+**Teaching.** Double/debiased machine learning solves a problem that has plagued causal inference for decades: how do you use flexible models to control for confounders without overfitting? The answer is sample splitting and orthogonalization. The method uses one part of the data to estimate the nuisance functions and another part to estimate the causal parameter, and it debiases the estimate so that inference is valid. Today we run double ML on a real dataset and compare it to a simple regression.
 
 ---
 
-### Week 45 · Saturday, November 7, 2026
+### Week 23 · Targeted maximum likelihood estimation
 
-**Body work — teach week.** Pacing, taught with a scale everyone can use: rating of perceived exertion, which is how hard an effort feels on a scale from one to ten. A six is "I could still hold a conversation," an eight is "I could answer in short words," and a ten is the hardest thing you have ever done. Almost all of this program lives between four and seven.
+**Practice — capacity week.** Use targeted maximum likelihood estimation (TMLE) to estimate a causal effect from an observational dataset. TMLE is a doubly robust method that combines outcome regression and propensity score weighting, and it is particularly useful when the outcome is bounded or when the effect is heterogeneous. Compare the TMLE estimate to the double ML estimate.
 
-**Breath practice — "Pace Breath."** Walk at a steady pace and breathe three seconds in and three seconds out, keeping the pattern the same whether you are going uphill or downhill. The pace belongs to the breath, not the terrain. This is the simplest way to learn what sustainable effort feels like in your own body.
+**Attention practice — The bounds check.** Before you trust a TMLE estimate, check whether the estimate is within the bounds of the outcome. If it is not, something is wrong.
 
-**Concept.** Patient repetition.
+**Key idea.** TMLE is a flexible, doubly robust method for causal effect estimation.
 
-**Verse.** Hebrews 12:1 — *"Let us run with perseverance the race marked out for us."*
+**Reading.** "Targeted Maximum Likelihood Learning" — van der Laan & Rubin (2006). The foundational paper.
 
-**Teaching.** The word translated perseverance means something closer to endurance under a load, the kind that does not produce a dramatic moment. Nobody is remembered for the day they kept going at a moderate pace, and yet that is the only thing that gets anyone to the end of anything. The race marked out for you is not somebody else's race, which is why comparison destroys endurance faster than fatigue does. This month, the goal is to finish the year still wanting to come back.
-
----
-
-### Week 46 · Saturday, November 14, 2026
-
-**Body work — repetition week.** A twenty-five minute steady walk or light ruck, on the same route, at the same pace, with no clock and no performance. The repetition is the point: the same route is how you notice that your breathing has changed since September.
-
-**Breath practice — "Long Walk Breath."** Four steps in through the nose, six steps out, for the entire walk. If you lose the count, pick it up again without commentary. This is what people have done on pilgrimage for centuries, and it is still the most reliable way to pray without a plan.
-
-**Concept.** Rest is strength.
-
-**Verse.** Isaiah 30:15 — *"In repentance and rest is your salvation, in quietness and trust is your strength."*
-
-**Teaching.** This is a verse spoken to a nation that wanted to solve its problem with horses and chariots, and the offer was quietness instead. Every fitness culture on earth makes the opposite offer, which is why the verse lands so strangely in a gym or a park. Rest in that sentence is not a break from strength; it is where strength is located. If you cannot take an easy session without feeling guilty, you have found the thing this month is asking you to give up.
+**Teaching.** TMLE is a doubly robust method that is particularly useful when the outcome is bounded or when the effect is heterogeneous. It works by updating an initial estimate of the outcome model in a way that targets the causal parameter of interest. The result is an estimate that is consistent if either the outcome model or the propensity model is correct. Today we run TMLE on a real dataset and compare it to other methods.
 
 ---
 
-### Week 47 · Saturday, November 21, 2026
+### Week 24 · Causal discovery from observational data
 
-**Body work — capacity week.** Repeatable efforts rather than maximal ones: four rounds of the same moderate task, whatever it is — a carry, a hill, a set of get-ups — with the rule that round four must be as clean as round one. Mobility work afterward, unhurried, with no clock.
+**Practice — flow and circle week.** Take an observational dataset with many variables. Use a causal discovery algorithm — PC, GES, or LiNGAM — to learn the causal graph from the data. Then compare the learned graph to your prior beliefs. Where do they differ? The differences are the surprises.
 
-**Breath practice — "Humming Exhale."** Breathe in through the nose, then hum out on a single long note until the breath is gone, six rounds. The vibration in the face and chest is doing real work on the vagus nerve, and you do not have to believe anything about the vagus nerve for it to work. It is also slightly funny, which is worth having in a session.
+**Attention practice — The prior graph.** Before you run causal discovery, draw the graph you believe. Then compare it to the learned graph. The comparison is the lesson.
 
-**Concept.** Jesus mandated rest.
+**Key idea.** Causal discovery is the art of learning the graph from the data, rather than assuming it.
 
-**Verse.** Mark 6:31 — *"Come with me by yourselves to a quiet place and get some rest."*
+**Reading.** "Causation, Prediction, and Search" — Spirtes, Glymour, & Scheines, Chapter 1. Or, for a shorter read: "Causal Discovery" — any recent review.
 
-**Teaching.** The disciples had just come back from a mission and were so busy that they did not have time to eat, and Jesus's response was not a planning meeting. That is the only place in the Gospels where Jesus tells anyone to get some rest, and he says it to people who were doing exactly what he had sent them to do. If the work is good and it is still too much, the answer in that passage is the same for you as it was for them.
+**Teaching.** Causal discovery is the most ambitious part of causal inference: instead of assuming a causal graph and estimating the effect, you learn the graph from the data. The algorithms are based on conditional independence tests, score functions, or non-Gaussianity assumptions. The results are often unstable, and they should always be compared to prior knowledge. But the exercise of comparing the learned graph to your prior beliefs is one of the most useful ways to find surprises. Today we run causal discovery and compare the results to our priors.
 
 ---
 
-### Week 48 · Saturday, November 28, 2026
+## Block 7 — Measurement and Data Quality
+**Weeks 25–28 · Theme: Is the data telling the truth? · Body-work rhythm: teach, repetition, capacity, flow**
 
-**Body work — flow and circle week.** An easy day, and everyone is told in advance that it is an easy day. Mobility, walking, slow movement, and a long circle on one question: what does rest look like in your actual life, this week, not in theory?
+**Why this block, why now.** July is when we confront the least glamorous and most important part of causal inference: the data itself. Measurement error, missing data, data provenance, and reproducibility are not optional topics. They are the foundation on which every causal claim rests. A brilliant analysis of bad data is worse than a simple analysis of good data.
 
-**Breath practice — "Nothing to Do."** Six minutes of sitting with the breath as an anchor and no counting, no pattern, no technique. When you notice you have drifted, come back. That is the entire instruction, and it is the oldest one there is.
+**What a newcomer should expect.** Practical data quality work. You will audit a dataset, trace its provenance, and run a missing data analysis. This is the block that separates people who do causal inference from people who talk about it.
 
-**Concept.** Recovery as obedience.
+---
 
-**Verse.** Psalm 127:2 — *"In vain you rise early and stay up late, toiling for food to eat — for he grants sleep to those he loves."*
+### Week 25 · Measurement error and its consequences
 
-**Teaching.** The psalm is addressed to people who believe that more hours will produce more security, and it names that belief as vain. Sleep in that verse is described as a gift rather than a reward, which means it is not something you earn by finishing the list. Treating rest as obedience rather than as indulgence is one of the hardest habits for a serious person to form. It is also, according to this psalm, a way of finding out whether you actually trust God or just say that you do.
+**Practice — teach week.** Take a dataset with a continuous variable. Add measurement error to it — random noise, systematic bias, or both. Then estimate a causal effect with and without the error. How much does the estimate change? The answer is usually more than you expect.
+
+**Attention practice — The measurement audit.** Before you analyze any variable, ask: how was this measured? What is the error rate? Is the error random or systematic?
+
+**Key idea.** Measurement error attenuates effects and inflates uncertainty.
+
+**Reading.** "Measurement Error and Misclassification" — any good introduction. Or: Chapter 9 of *Causal Inference: What If*.
+
+**Teaching.** Measurement error is the silent killer of causal inference. Random error attenuates effects toward zero; systematic error can bias effects in any direction. Most datasets have both. The practical consequence is that many published effects are smaller than the true effects, and many null results are actually attenuated true effects. Today we add measurement error to a dataset and watch what happens.
+
+---
+
+### Week 26 · Missing data and multiple imputation
+
+**Practice — repetition week.** Take a dataset with missing values. Analyze it three ways: complete case analysis, mean imputation, and multiple imputation. Compare the estimates. Then ask: what is the missingness mechanism? Is it missing at random, missing completely at random, or missing not at random? The answer determines which method is valid.
+
+**Attention practice — The missingness question.** Before you analyze any dataset, ask: why is this data missing? The answer is often more important than the data itself.
+
+**Key idea.** Missing data is not a nuisance; it is a source of information.
+
+**Reading.** "Missing Data: A Gentle Introduction" — any good introduction. Or: Chapter 10 of *Causal Inference: What If*.
+
+**Teaching.** Missing data is ubiquitous and almost always mishandled. Complete case analysis is the default in most software, and it is only valid when the data are missing completely at random, which is almost never. Multiple imputation is the modern standard, but it requires the missingness mechanism to be missing at random. If the data are missing not at random, no method can fully correct the bias. Today we analyze a dataset three ways and compare the results.
+
+---
+
+### Week 27 · Data provenance and reproducibility
+
+**Practice — capacity week.** Take a published paper with a causal claim. Trace the data back to its source. Where did it come from? Who collected it? How was it processed? Can you reproduce the analysis? If you cannot, what is missing?
+
+**Attention practice — The provenance question.** Before you trust any analysis, ask: where did the data come from? The answer is often more interesting than the analysis.
+
+**Key idea.** A result that cannot be reproduced is not a result.
+
+**Reading.** "Reproducibility and Replicability in Science" — any recent review. Or: "The ReproNim Perspective" — any paper on reproducible neuroimaging.
+
+**Teaching.** Data provenance is the chain of custody from the real world to the dataset. Most published analyses do not include enough information to reproduce the result, which means the result is not verifiable. This is not a minor problem. It is the difference between science and storytelling. Today we trace a published analysis back to its source and try to reproduce it.
+
+---
+
+### Week 28 · Auditing data pipelines
+
+**Practice — flow and circle week.** Take a data pipeline from your work. Map every step: where the data comes from, how it is cleaned, how it is transformed, how it is analyzed. Then identify the points where errors could be introduced. The map is the audit. The circle afterward runs long.
+
+**Attention practice — The pipeline map.** Before you trust any dataset, map the pipeline that produced it. The map is the first step in the audit.
+
+**Key idea.** Data quality is a process, not a property.
+
+**Reading.** "Data Pipeline Auditing" — any practical guide. Or: "The Data Linter" — any paper on automated data quality checks.
+
+**Teaching.** Data quality is not something a dataset has or does not have. It is something a pipeline produces or fails to produce. Auditing a data pipeline means mapping every step and identifying the points where errors could be introduced. This is the least glamorous work in causal inference, and it is the work that prevents the most embarrassing mistakes. Today we map a pipeline and find the weak points.
+
+---
+
+## Block 8 — Applied Domains: Science and Engineering
+**Weeks 29–32 · Theme: What do other fields know? · Body-work rhythm: teach, repetition, capacity, flow**
+
+**Why this block, why now.** August is when we leave our own fields and learn from others. Causal inference is not owned by any one discipline. Physicists, biologists, climate scientists, and social scientists have all developed methods for causal reasoning that are useful in business and industry. This block is about cross-pollination: reading papers from adjacent fields and asking what they know that we do not.
+
+**What a newcomer should expect.** Four weeks of reading and discussing papers from four different fields. No new methods. The practice is to read a paper from another field and translate its methods into your own domain.
+
+---
+
+### Week 29 · Physics and engineering
+
+**Practice — teach week.** Find a paper from physics or engineering that uses causal reasoning — causal discovery in complex systems, causal inference in materials science, causal models in control theory. Read it. Then translate the method into your own domain. What would it look like to apply this method to your work?
+
+**Attention practice — The translation question.** Before you read a paper from another field, ask: what is the causal question they are asking? Then ask: what is the analogous question in my field?
+
+**Key idea.** Every field has a version of the same problem.
+
+**Reading.** A recent pre-print from arXiv physics or engineering that uses causal methods. The reading is the practice.
+
+**Teaching.** Physics and engineering have been doing causal reasoning for a long time, mostly under different names: perturbation analysis, sensitivity analysis, system identification. The methods are often more rigorous than what is used in business and social science. Today we read a paper from physics or engineering and ask what we can steal.
+
+---
+
+### Week 30 · Biology and medicine
+
+**Practice — repetition week.** Find a paper from biology or medicine that uses causal inference — Mendelian randomization, target trial emulation, causal mediation analysis. Read it. Then ask: what is the treatment, the outcome, and the confounder? How did they handle confounding?
+
+**Attention practice — The target trial.** Before you analyze an observational dataset, ask: what would the target trial look like? Who would be randomized, to what, and with what outcome?
+
+**Key idea.** The target trial framework is the best way to design an observational study.
+
+**Reading.** "Target Trial Emulation" — Hernán & Robins (2016). A clear introduction to the framework.
+
+**Teaching.** Medicine has developed some of the most rigorous methods for causal inference from observational data, mostly because it cannot randomize everything. The target trial framework is the most useful of these methods: before you analyze observational data, imagine the randomized trial you would run if you could. Then emulate it. Today we read a paper from medicine and translate the framework.
+
+---
+
+### Week 31 · Climate and environmental science
+
+**Practice — capacity week.** Find a paper from climate science that uses causal or attribution methods — detection and attribution, causal discovery in climate networks, counterfactual climate modeling. Read it. Then ask: what is the counterfactual? How do they construct it?
+
+**Attention practice — The counterfactual climate.** Before you attribute any effect to climate change, ask: what would the climate have looked like without the forcing? The counterfactual is the whole game.
+
+**Key idea.** Attribution is causal inference at planetary scale.
+
+**Reading.** A recent paper from climate science on detection and attribution. The reading is the practice.
+
+**Teaching.** Climate science has developed some of the most sophisticated methods for causal attribution, mostly because the stakes are high and the data are messy. The core method is counterfactual modeling: run the climate model with and without the forcing, and compare the results. This is causal inference at planetary scale, and the logic is the same as in a clinical trial. Today we read a paper from climate science and ask what we can learn.
+
+---
+
+### Week 32 · Social science and policy
+
+**Practice — flow and circle week.** Find a paper from social science or policy evaluation that uses a quasi-experimental method — DiD, RDD, IV, synthetic control. Read it. Then ask: what is the identifying assumption? How did they test it? The circle afterward runs long.
+
+**Attention practice — The identifying assumption.** Before you trust any quasi-experimental estimate, ask: what is the assumption that makes this design valid? Then ask: did they test it?
+
+**Key idea.** Every quasi-experiment rests on an assumption that cannot be fully tested.
+
+**Reading.** A recent paper from social science or policy evaluation. The reading is the practice.
+
+**Teaching.** Social science and policy evaluation have developed the quasi-experimental methods that are most useful in business and industry: DiD, RDD, IV, synthetic control. The methods are well-suited to the problems that businesses face, because businesses often have policy changes, thresholds, and natural experiments. Today we read a paper from social science and ask what we can apply.
+
+---
+
+## Block 9 — Applied Domains: Business and Industry
+**Weeks 33–36 · Theme: What makes a decision better? · Body-work rhythm: teach, repetition, capacity, flow**
+
+**Why this block, why now.** September is when we bring it home. The previous eight months have been about methods and domains. This month is about application: how do you use causal inference to make better decisions in business and industry? This is not about sales. It is about the full range of business problems: marketing, operations, product development, pricing, and strategy.
+
+**What a newcomer should expect.** Case studies and applications. You will take a business problem from your work and design a causal study to answer it. The practice is the design, not the execution.
+
+---
+
+### Week 33 · Marketing and sales — beyond the numbers game
+
+**Practice — teach week.** Take a marketing campaign or sales process from your work. Design a causal study to answer: what actually causes someone to buy? Not "what correlates with purchase" — what causes it. Identify the treatment, the outcome, and the confounders. Then design an experiment or quasi-experiment to estimate the effect.
+
+**Attention practice — The cause question.** Before you optimize any campaign, ask: what is the causal mechanism? What would have to be true for this campaign to work?
+
+**Key idea.** Prospecting is not a numbers game. It is a causal question.
+
+**Reading.** "Causal Inference in Marketing" — any recent review. Or: "The Economics of Privacy" — any paper on the causal effects of marketing.
+
+**Teaching.** Most marketing analytics is correlational: this campaign correlates with that purchase, so let's do more of it. But correlation is not causation, and the difference matters when you are spending money. A causal approach asks: what would have happened if we had not run the campaign? The answer requires an experiment or a quasi-experiment, and it often surprises people. Today we design a causal study for a marketing or sales problem.
+
+---
+
+### Week 34 · Operations and supply chain
+
+**Practice — repetition week.** Take an operations problem from your work — a bottleneck, a quality issue, a delivery delay. Design a causal study to identify the driver. What is the treatment? What is the outcome? What are the confounders? How would you estimate the effect?
+
+**Attention practice — The bottleneck question.** Before you optimize any process, ask: what is the causal driver of the outcome? The bottleneck is often not where you think it is.
+
+**Key idea.** Operations is full of natural experiments. Find them.
+
+**Reading.** "Causal Inference in Operations Management" — any recent review. Or: "The Toyota Production System" — any paper on causal drivers of quality.
+
+**Teaching.** Operations and supply chain are full of natural experiments: process changes, supplier switches, policy changes. Most companies analyze these changes with before-after comparisons, which are confounded by trends and seasonality. A causal approach uses DiD, RDD, or synthetic control to estimate the effect. Today we design a causal study for an operations problem.
+
+---
+
+### Week 35 · Product development — what makes users adopt?
+
+**Practice — capacity week.** Take a product feature or a design change from your work. Design an A/B test or a quasi-experiment to estimate the causal effect on adoption, retention, or engagement. Then ask: what is the metric that matters? Is it a proxy? What does it miss?
+
+**Attention practice — The adoption question.** Before you optimize a product, ask: what causes someone to adopt it? Not "what correlates with adoption" — what causes it.
+
+**Key idea.** Product development is a sequence of causal questions.
+
+**Reading.** "Trustworthy Online Controlled Experiments" — Kohavi, Tang, & Xu, Chapter 2. Or: "The Surprising Power of Online Experiments" — any recent review.
+
+**Teaching.** Product development is a sequence of causal questions: does this feature cause users to stay? Does this design cause them to convert? Does this change cause them to recommend? Most product teams answer these questions with A/B tests, which is the right instinct. But A/B tests are often underpowered, poorly designed, or measuring the wrong metric. Today we design a causal study for a product question and critique the metric.
+
+---
+
+### Week 36 · Pricing and demand — elasticity, experiments, and natural experiments
+
+**Practice — flow and circle week.** Take a pricing question from your work. Design a causal study to estimate price elasticity. Can you run an experiment? Can you find a natural experiment? What are the confounders? What is the counterfactual? The circle afterward runs long.
+
+**Attention practice — The elasticity question.** Before you change a price, ask: what is the causal effect of price on demand? The answer is almost never what you expect.
+
+**Key idea.** Price elasticity is a causal parameter, not a correlation.
+
+**Reading.** "The Economics of Price Elasticity" — any good introduction. Or: "Causal Inference in Pricing" — any recent review.
+
+**Teaching.** Pricing is one of the most consequential and least causal areas of business analytics. Most companies estimate elasticity from historical data, which is confounded by seasonality, promotions, and competitor actions. A causal approach uses experiments or natural experiments to estimate the effect of price on demand. The results are often surprising, because the correlation between price and demand is usually driven by confounders. Today we design a causal study for a pricing question.
+
+---
+
+## Block 10 — Communication and Decision-Making
+**Weeks 37–40 · Theme: From insight to action · Body-work rhythm: teach, repetition, capacity, flow**
+
+**Why this block, why now.** October is when we learn to communicate. A causal finding that nobody understands is a causal finding that nobody uses. This block is about the last mile: writing, visualizing, and deciding. It is also about the hardest part of causal inference: communicating uncertainty without losing trust.
+
+**What a newcomer should expect.** Writing and presentation exercises. You will write a one-page summary of a causal finding, design a visualization, and make a decision under uncertainty.
+
+---
+
+### Week 37 · Writing causal findings for different audiences
+
+**Practice — teach week.** Take a causal finding from your work. Write three versions: one for a technical audience, one for a management audience, and one for a general audience. The technical version can use jargon. The management version cannot. The general version must be understandable to a smart person who has never heard of a DAG.
+
+**Attention practice — The one-sentence test.** Before you write anything, write the finding in one sentence. If you cannot, you do not understand it yet.
+
+**Key idea.** If you cannot explain it in one sentence, you do not understand it.
+
+**Reading.** "The Sense of Style" — Pinker, Chapter 1. Or: "Writing for Busy Readers" — any good guide.
+
+**Teaching.** Most causal findings are communicated badly, which means they are not used. The problem is usually not the finding; it is the translation. A technical audience wants the method, the assumptions, and the sensitivity analysis. A management audience wants the decision, the uncertainty, and the recommendation. A general audience wants the story. Today we write the same finding three ways.
+
+---
+
+### Week 38 · Visualizing causal evidence
+
+**Practice — repetition week.** Take a causal finding from your work. Design three visualizations: one for a technical audience, one for a management audience, and one for a general audience. The technical visualization can be a forest plot. The management visualization should be a decision-relevant chart. The general visualization should be a single image that tells the story.
+
+**Attention practice — The chart question.** Before you make any chart, ask: what decision is this chart supposed to inform? If you cannot answer, do not make the chart.
+
+**Key idea.** A good chart answers a question. A bad chart raises one.
+
+**Reading.** "The Truthful Art" — Cairo, Chapter 1. Or: "Storytelling with Data" — Knaflic, Chapter 1.
+
+**Teaching.** Visualization is not decoration. It is communication. A good chart answers a specific question for a specific audience. A bad chart raises questions it cannot answer. Causal evidence is particularly hard to visualize because it involves uncertainty, assumptions, and counterfactuals. Today we design three visualizations for the same finding and critique each other's work.
+
+---
+
+### Week 39 · Decision theory and value of information
+
+**Practice — capacity week.** Take a decision you are facing at work. Calculate the value of information: how much would you pay to learn the causal effect before you decide? Then ask: is the study worth the cost? The answer is often no, which is a useful thing to learn.
+
+**Attention practice — The decision question.** Before you run any study, ask: what decision will this study inform? If the answer is "none," do not run the study.
+
+**Key idea.** The value of a causal study is the value of the decision it improves.
+
+**Reading.** "Value of Information Analysis" — any good introduction. Or: "How to Measure Anything" — Hubbard, Chapter 1.
+
+**Teaching.** Most causal studies are run without asking whether the answer is worth the cost. Value of information analysis is a simple framework for answering that question: how much would you pay to learn the answer before you decide? If the answer is less than the cost of the study, do not run the study. Today we calculate the value of information for a real decision.
+
+---
+
+### Week 40 · Communicating uncertainty without losing trust
+
+**Practice — flow and circle week.** Take a causal finding with a wide confidence interval. Write a one-paragraph summary that communicates the uncertainty honestly, without hedging into uselessness and without overselling. Then present it to the group and get feedback. The circle afterward runs long.
+
+**Attention practice — The uncertainty audit.** Before you communicate any estimate, ask: what is the uncertainty? Is it sampling uncertainty, model uncertainty, or identification uncertainty? Each one requires a different kind of communication.
+
+**Key idea.** Honest uncertainty is more trustworthy than false confidence.
+
+**Reading.** "The Signal and the Noise" — Silver, Chapter 1. Or: "Superforecasting" — Tetlock & Gardner, Chapter 1.
+
+**Teaching.** Communicating uncertainty is the hardest part of causal inference, because people want answers and uncertainty is uncomfortable. But false confidence is worse than honest uncertainty, because it leads to bad decisions and lost trust. The key is to distinguish between different kinds of uncertainty: sampling uncertainty, which shrinks with more data; model uncertainty, which requires assumptions; and identification uncertainty, which requires a different design. Today we practice communicating all three.
+
+---
+
+## Block 11 — Building a Learning Organization
+**Weeks 41–44 · Theme: Scaling curiosity · Body-work rhythm: teach, repetition, capacity, flow**
+
+**Why this block, why now.** November is when we zoom out. The previous ten months have been about individual skills. This month is about organizations: how do you build a team, a company, or a field that learns? This is the block that turns a causal engineer into a causal leader.
+
+**What a newcomer should expect.** Discussion and design. You will design a learning agenda for your team, run a meta-analysis, and plan a scaling strategy.
+
+---
+
+### Week 41 · Creating a culture of experimentation
+
+**Practice — teach week.** Take a team or organization you are part of. Assess its culture of experimentation: does it run experiments? Does it learn from them? Does it reward surprise or punish it? Then design one intervention that would improve the culture.
+
+**Attention practice — The culture question.** Before you try to change a culture, ask: what behavior is currently rewarded? The answer is the culture.
+
+**Key idea.** Culture is what gets rewarded, not what gets written on the wall.
+
+**Reading.** "The Lean Startup" — Ries, Chapter 1. Or: "Experimentation Works" — Thomke, Chapter 1.
+
+**Teaching.** Most organizations say they value experimentation and then punish failure. The result is a culture of confirmation, not discovery. Building a culture of experimentation requires changing the incentives: rewarding surprise, celebrating null results, and treating every experiment as a learning opportunity. Today we assess a real culture and design one intervention.
+
+---
+
+### Week 42 · Designing a learning agenda
+
+**Practice — repetition week.** Take a team or organization you are part of. Design a learning agenda: a prioritized list of causal questions that the team needs to answer to make better decisions. For each question, specify the decision it informs, the method you would use, and the cost. Then prioritize.
+
+**Attention practice — The learning question.** Before you add any question to the agenda, ask: what decision would this answer change? If the answer is "none," drop the question.
+
+**Key idea.** A learning agenda is a list of questions worth answering, not a list of questions you are curious about.
+
+**Reading.** "The Advantage" — Lencioni, Chapter 1. Or: "Learning Agendas" — any good guide.
+
+**Teaching.** Most organizations have too many questions and too few answers. A learning agenda is a way to prioritize: which questions are worth answering, given the decisions they inform and the cost of answering them? The agenda should be short, specific, and tied to decisions. Today we design a learning agenda for a real team.
+
+---
+
+### Week 43 · Meta-analysis and evidence synthesis
+
+**Practice — capacity week.** Take a causal question with multiple studies. Run a meta-analysis: extract the effect sizes, the standard errors, and the sample sizes. Estimate the pooled effect and the heterogeneity. Then ask: what does the heterogeneity tell you?
+
+**Attention practice — The heterogeneity question.** Before you pool studies, ask: are they estimating the same effect? If not, pooling is misleading.
+
+**Key idea.** Meta-analysis is causal inference across studies.
+
+**Reading.** "Introduction to Meta-Analysis" — Borenstein et al., Chapter 1. Or: "Systematic Reviews in the Social Sciences" — any good guide.
+
+**Teaching.** Meta-analysis is the discipline of combining evidence across studies to estimate a pooled effect. It is causal inference at the level of the literature. The key challenge is heterogeneity: if the studies are estimating different effects, pooling them is misleading. Today we run a meta-analysis and interpret the heterogeneity.
+
+---
+
+### Week 44 · Scaling causal insights across an organization
+
+**Practice — flow and circle week.** Take a causal insight from your work. Design a scaling strategy: how would you spread this insight across the organization? Who needs to know? What would change their behavior? What would prevent the insight from being adopted? The circle afterward runs long.
+
+**Attention practice — The adoption question.** Before you try to scale any insight, ask: who needs to change their behavior for this to matter? Then ask: what would change their behavior?
+
+**Key idea.** An insight that is not adopted is not an insight.
+
+**Reading.** "Diffusion of Innovations" — Rogers, Chapter 1. Or: "Made to Stick" — Heath & Heath, Chapter 1.
+
+**Teaching.** Scaling a causal insight is not about publishing a report. It is about changing behavior. The diffusion of innovations literature has studied this for decades: most innovations fail not because they are wrong but because they are not adopted. Today we design a scaling strategy for a real insight and identify the barriers to adoption.
+
+---
+
+## Block 12 — Advanced Topics
+**Weeks 45–48 · Theme: The frontier · Body-work rhythm: teach, repetition, capacity, flow**
+
+**Why this block, why now.** December is when we look at the frontier. The previous eleven months have covered the foundations. This month is about the topics that are still being figured out: time series, mediation, transportability, and networks. These are the areas where the methods are still evolving and the surprises are still coming.
+
+**What a newcomer should expect.** Advanced methods. This is the most technically demanding block of the year, and it is also the most exciting, because it is where the field is moving.
+
+---
+
+### Week 45 · Causal inference with time series and panel data
+
+**Practice — teach week.** Take a time series or panel dataset from your work. Identify a treatment that occurs at a specific time. Estimate the effect using a method for time series causal inference — interrupted time series, synthetic control, or a panel method with fixed effects. Then ask: what are the assumptions? How would you test them?
+
+**Attention practice — The time question.** Before you analyze any time series, ask: what else changed at the same time as the treatment? The answer is usually a confounder.
+
+**Key idea.** Time series causal inference is about separating the effect of the treatment from the effect of everything else that changed at the same time.
+
+**Reading.** "Causal Inference for Time Series" — any recent review. Or: "Mostly Harmless Econometrics" — Chapter 5.
+
+**Teaching.** Time series and panel data are the most common data structures in business and policy. The challenge is that everything changes over time, so separating the effect of the treatment from the effect of everything else is hard. The methods — interrupted time series, synthetic control, fixed effects — all rely on assumptions about what would have happened without the treatment. Today we estimate a time series effect and test the assumptions.
+
+---
+
+### Week 46 · Mediation analysis and mechanisms
+
+**Practice — repetition week.** Take a causal effect from your work. Identify a plausible mediator: a variable that lies on the causal path between treatment and outcome. Estimate the direct effect and the indirect effect. Then ask: how much of the total effect goes through the mediator?
+
+**Attention practice — The mechanism question.** Before you report a total effect, ask: what is the mechanism? The mechanism is often more useful than the effect.
+
+**Key idea.** Mediation analysis tells you not just whether the treatment works, but how.
+
+**Reading.** "Mediation Analysis" — any recent review. Or: "Explanation in Causal Inference" — VanderWeele, Chapter 1.
+
+**Teaching.** Mediation analysis is the study of mechanisms: how does the treatment affect the outcome? The total effect can be decomposed into a direct effect and an indirect effect through a mediator. This is useful for understanding why an intervention works and for designing better interventions. Today we estimate a mediation effect and interpret the mechanism.
+
+---
+
+### Week 47 · Transportability and external validity
+
+**Practice — capacity week.** Take a causal effect estimated in one population. Ask: would it apply to a different population? What would have to be true for the effect to transport? Use a transportability method — weighting, selection diagrams, or a formal transport formula — to estimate the effect in the target population.
+
+**Attention practice — The transport question.** Before you generalize any effect, ask: what is different about the target population? The answer determines whether the effect will transport.
+
+**Key idea.** An effect estimated in one population is not automatically valid in another.
+
+**Reading.** "Transportability of Causal Effects" — Bareinboim & Pearl (2016). A clear introduction.
+
+**Teaching.** Transportability is the science of generalizing causal effects from one population to another. The key insight is that an effect transports if the mechanisms that produce it are the same in both populations. If the mechanisms differ, the effect may not transport. Today we estimate a transport effect and discuss the assumptions.
+
+---
+
+### Week 48 · Causal inference with complex and networked data
+
+**Practice — flow and circle week.** Take a dataset with network structure — social networks, supply chains, communication networks. Identify a causal question that involves spillovers or interference: does the treatment affect not just the treated unit but also its neighbors? Estimate the direct and spillover effects. The circle afterward runs long.
+
+**Attention practice — The interference question.** Before you analyze any networked data, ask: does the treatment affect only the treated unit, or does it also affect the neighbors? The answer determines whether standard methods are valid.
+
+**Key idea.** In networks, the treatment of one unit can affect the outcomes of others.
+
+**Reading.** "Causal Inference with Interference" — any recent review. Or: "Networked Experiments" — any good introduction.
+
+**Teaching.** Most causal inference assumes no interference: the treatment of one unit does not affect the outcomes of others. In networks, this assumption is almost always violated. The treatment of one person affects their friends, their colleagues, their suppliers. Estimating direct and spillover effects requires new methods: cluster randomization, network exposure models, or causal inference on graphs. Today we estimate a spillover effect and discuss the assumptions.
 
 ---
 
 ## Block 13 — Teaching Back and Sending
-**Weeks 49–52 · Autumn · December 5 to December 26 · Body-work rhythm: teach, repetition, capacity, flow**
+**Weeks 49–52 · Theme: The loop closes · Body-work rhythm: teach, repetition, capacity, flow**
 
-**Why this block, why now.** A year that ends with someone still being taught by the same person has produced a dependency rather than a group. So the last month is inverted: the leaders stop leading, and everybody teaches something they know. This is not a graduation and there is no certificate. It is the mechanism by which the group survives its founder, which is the only test of a ministry that matters after the founder is gone.
+**Why this block, why now.** A year that ends with the same person teaching has produced a dependency, not a practice. The last month is inverted: the leaders stop leading, and everybody teaches something they know. This is not a graduation and there is no certificate. It is the mechanism by which the group survives its founder.
 
-**What a newcomer should expect.** You will be asked to teach one small thing, and you may say no. If you say yes, the thing can be a stretch, a stance, a breathing pattern, or a sentence about a verse; five minutes is plenty. This is also the month to bring someone who has never been, because the group is not doing anything impressive and there is nothing to be intimidated by.
-
----
-
-### Week 49 · Saturday, December 5, 2026
-
-**Body work — teach week, inverted.** Each person who is willing takes five minutes and teaches one thing they actually know, from any point in the year. The leader's job this week is to be a student and to say thank you.
-
-**Breath practice — "Breath With Another."** Take one person who has never done your favorite breathing practice and teach it to them in one minute, out loud, with counts. Teaching it is the test of whether you know it. If you get stuck, the answer is always the same: breathe in through the nose and out for longer than you breathed in.
-
-**Concept.** As I have loved you.
-
-**Verse.** John 13:34 — *"A new command I give you: love one another. As I have loved you, so you must love one another."*
-
-**Teaching.** The command is new not because love was unheard of but because the standard was new: as I have loved you. That standard is not a feeling and it is not a preference; it is a pattern that was demonstrated in a room with a basin and a towel. Five minutes of teaching somebody something is a small version of it, because it costs you the position of being the one who knows. The group that can do this in December is a group that will still exist in five years.
+**What a newcomer should expect.** You will be asked to teach one small thing, and you may say no. If you say yes, the thing can be a method, a DAG, a sensitivity analysis, or a paper you read. Ten minutes is plenty.
 
 ---
 
-### Week 50 · Saturday, December 12, 2026
+### Week 49 · Teaching causal inference to others
 
-**Body work — repetition week, round robin.** Different people lead each warm-up segment, ten minutes each, using the same order the group has used all year. Whoever is not leading stands at the door and greets people by name as they arrive.
+**Practice — teach week, inverted.** Each person who is willing takes ten minutes and teaches one thing they actually know, from any point in the year. The leader's job this week is to be a student and to say thank you.
 
-**Breath practice — "Greeting Breath."** Before you greet anyone at the door, take three slow breaths and let your shoulders drop. Then walk toward them. This is the practice that decides what a new person feels in their first thirty seconds, which is the only thirty seconds most people remember.
+**Attention practice — The teach-back.** Before you teach anything, explain it to yourself in one sentence. If you cannot, you do not understand it well enough to teach it.
 
-**Concept.** The loop is not the goal.
+**Key idea.** Teaching is the test of understanding.
 
-**Verse.** Matthew 28:19 — *"Therefore go and make disciples of all nations."*
+**Reading.** "The Teaching Brain" — any good introduction. Or: "Make It Stick" — Brown, Roediger, & McDaniel, Chapter 1.
 
-**Teaching.** The Great Commission is a sending, and a program that only ever gathers has stopped short of it. Notice that the command does not say to build a group that people cannot leave; it says to send people out with what they have learned. The healthiest sign in this ministry would be somebody starting another session in another park, with no permission from us and no logo on it. We would not even need to know about it.
-
----
-
-### Week 51 · Saturday, December 19, 2026
-
-**Body work — capacity week, group's choice.** The group votes on the session and then two people lead it together: one who has been coming for years and one who started this month. Whatever they choose, the safety rules do not move.
-
-**Breath practice — "Lead Breath."** You lead the group's breath practice out loud, all the way through, with counts. Six rounds of four in and six out, said slowly enough that people can follow. This is the smallest possible public act of leadership and it is the one most people are most nervous about.
-
-**Concept.** You are the credential.
-
-**Verse.** Acts 1:8 — *"But you will receive power when the Holy Spirit comes on you; and you will be my witnesses."*
-
-**Teaching.** A witness is not an expert and does not need a case to make; a witness reports what they saw. That is why the qualification for this work is not training, ordination, or a curriculum, but having been present for something. When people ask what this group is, the best answer in the room is not the flyer and not the doctrine. It is one person saying, in a normal voice, "I come here on Saturdays and it has been good for me."
+**Teaching.** The best way to find out whether you understand something is to teach it to someone else. The gaps in your understanding become obvious the moment you have to explain them. Today everyone teaches something, and everyone learns something. The leader's job is to be a student, not an expert.
 
 ---
 
-### Week 52 · Saturday, December 26, 2026
+### Week 50 · Building your own learning network
 
-**Body work — flow and circle week, no agenda.** An open session: whatever people want to review, a slow flow, a walk, a game, and a shared meal if the group wants one. **No awards. No certificates. No speeches about the year.** Anyone who wants to say thank you may say it to a person directly.
+**Practice — repetition week.** Map your learning network: the people you learn from, the pre-prints you read, the conferences you attend, the email lists you are on. Then identify one gap: a field, a method, or a person you should be learning from but are not. Take one step to fill the gap: send an email, subscribe to a newsletter, or read a paper from that field.
 
-**Breath practice — "Open Table."** Five minutes of silence together, and then, going around the circle, one word of thanks from each person who wants to give one. One word, not a testimony. Then the ordinary prayer, and out.
+**Attention practice — The network question.** Before you try to learn anything new, ask: who already knows this? The answer is usually a person you can reach.
 
-**Concept.** Release the outcome.
+**Key idea.** Your learning network is your most valuable asset.
 
-**Verse.** 1 Corinthians 3:6 — *"I planted the seed, Apollos watered it, but God has been making it grow."*
+**Reading.** "The Strength of Weak Ties" — Granovetter (1973). The classic paper on why weak ties are more valuable than strong ties for learning.
 
-**Teaching.** Paul says this to a church that had split into factions over which leader was better, and his answer is that neither of them was doing the important part. That is the sentence to end a year on, because it takes the outcome out of the leader's hands and puts it where it belongs. We do not know what any of this year did in anybody's life, and we are not going to claim that we do. We showed up, we planted and watered, and the growth was never ours to measure.
+**Teaching.** The people you learn from are more important than the books you read. A learning network is a group of people who are doing the work you want to do, and who are reachable. The best way to build one is to reach out: send an email, ask a question, offer a comment. Most people are happy to talk about their work. Today we map our networks and fill one gap.
 
 ---
 
-*Week 52 closes the year on December 26. December 31 is a rest day. The next full session is Saturday, January 2, 2027 — Week 1 again, the same thirteen blocks, the same shape, a different room full of people.*
+### Week 51 · The year in review — what surprised you?
+
+**Practice — capacity week.** Go through your notes from the year. Find the three biggest surprises: the results that did not match your expectations, the methods that did not work, the papers that changed your mind. Write down what you learned from each one. Then ask: what would you do differently next year?
+
+**Attention practice — The surprise audit.** Before you close the year, review your predictions. Which ones were right? Which ones were wrong? The wrong ones are the most valuable.
+
+**Key idea.** The year is measured in surprises, not in confirmations.
+
+**Reading.** No new reading this week. Re-read your notes from week one.
+
+**Teaching.** The point of a year of causal engineering is not to confirm what you already believed. It is to find surprises: results that challenge your assumptions, methods that fail in unexpected ways, papers that change how you think. Today we review the year through the lens of surprise. The question is not "what did I learn?" It is "what did I learn that I did not expect?"
+
+---
+
+### Week 52 · Sending — starting your own inquiry group
+
+**Practice — flow and circle week.** Design a plan for next year: who will lead, where you will meet, what you will read, how you will reach out to authors. Then commit to one thing: a date, a person, a paper. The circle afterward runs long, and this is the week to bring someone who has never been.
+
+**Attention practice — The sending question.** Before you close the year, ask: who will carry this forward? If the answer is "me," you have not built a group. If the answer is "us," you have.
+
+**Key idea.** A group that cannot survive its founder is not a group.
+
+**Reading.** "The Starfish and the Spider" — Brafman & Beckstrom, Chapter 1. Or: "The Tyranny of Structurelessness" — Freeman (1972).
+
+**Teaching.** The healthiest sign of a practice group is that it does not need you. It has a life of its own, a rotating leadership, and a culture of curiosity that is not dependent on any one person. Today we plan for the group's future without us. The question is not "what will I do next year?" It is "what will we do next year?"
 
 ---
 
 # Part Three: Tools
 
----
-
 ## Appendix A — The one-page facilitator card
 
 Print this on a single sheet and hand it to anyone who is leading for the first time.
 
-**What to bring.** The waiver and emergency contact sheet. The injury log. Water. Tape. Whatever passed for mats. This document, open to the week.
+**What to bring.** The week's reading, printed or on a screen. A whiteboard or a large piece of paper for drawing DAGs. The week's practice, written where everyone can see it. A timer.
 
-**What to say at the top.** "Welcome. This is free, nobody is in charge, and nobody is keeping score. We move for about forty minutes, we breathe for ten, we read one verse and sit with it, and we pray. If you need to stop, stop. If you need to leave, leave, and come back when you can."
+**What to say at the top.** "Welcome. This is free, nobody is in charge, and nobody is keeping score. We practice for about twenty-five minutes, we train our attention for seven, we read one paper and discuss it, and we commit to one thing for the week. If you need to stop, stop. If you need to leave, leave, and come back when you can."
 
 **The shape, every week.**
 
-1. Door and names — 5 minutes
-2. Circle, safety sentence, prayer — 5 minutes
-3. Joints and movement preparation — 12 minutes
-4. Main body work — 23 minutes
-5. Conditioning — 7 minutes
-6. **Breath practice, taught as its own segment** — 10 minutes
-7. Verse read twice, one question, silence, one sentence each — 10 minutes
-8. Prayer requests, prayer out — 3 minutes
+1. Arrival and check-in: one surprise — 5 minutes
+2. Circle and framing — 5 minutes
+3. Review of last week — 10 minutes
+4. Main practice — 25 minutes
+5. **Attention practice, as its own segment** — 7 minutes
+6. Reading circle: one question — 10 minutes
+7. Application: one sentence each — 10 minutes
+8. Close: one commitment — 3 minutes
 
-**The three sentences to say before any partner work.** "We are going to work at half speed. If anything feels wrong, say reset and we stop, and nobody has to explain why. I will show you what I am going to do before I do it."
+**The three sentences to say before any practice.** "We are going to work at a pace that lets everyone follow. If anything is unclear, say so and we will slow down. There is no such thing as a stupid question, and there is no such thing as a question that is too basic."
 
-**The five refusals.** No money. No ranks. No photographs for promotion. No striking a person. No cutting the prayer for time.
+**The five refusals.** No money. No gatekeeping. No photographs for promotion. No claims that cannot be falsified. No cutting the commitment for time.
 
-**The one question to ask at the end.** "What did you notice?"
+**The one question to ask at the end.** "What surprised you?"
 
 **If you are having a bad day.** Lead the session anyway, at eighty percent, and let it be a smaller session. The group does not need your best session; it needs you to be there next week.
 
 ---
 
-## Appendix B — Injury log
+## Appendix B — The pre-print reading list
 
-A notebook is fine. Every entry gets five fields, and the entry is written before anyone goes home.
+These are the archives where the frontier lives. Subscribe to the ones that are relevant to your field.
 
-| Field | What to write |
-|---|---|
-| Date and time | Exact |
-| Who | Name, and age if under eighteen |
-| What happened | One plain sentence, no interpretation |
-| Who was present | Names of witnesses and who was supervising |
-| What was done | First aid given, whether a family member was called, whether they were advised to seek care, and who drove them |
+- **arXiv** — stat.ME (methodology), stat.ML (machine learning), econ.EM (econometrics), cs.LG (learning)
+- **SSRN** — economics, finance, law, management
+- **bioRxiv** — biology, neuroscience, genomics
+- **medRxiv** — medicine, epidemiology, public health
+- **PsyArXiv** — psychology, cognitive science
+- **SocArXiv** — sociology, political science, education
 
-Two rules. Write it even when the injury is trivial, because the pattern is the thing you want to see before it becomes a serious injury. And never write an opinion about fault, cause, or blame in the log; write what happened and stop.
+**How to read a pre-print.** Read the abstract, the introduction, and the conclusion. Skip the methods unless you need them. Write down one question. Send it to the authors.
 
----
-
-## Appendix C — The fifty-two verses, on one page
-
-1. Mark 1:17 · 2. John 1:39 · 3. Matthew 11:29–30 · 4. Philippians 2:5–8
-5. Matthew 3:17 · 6. Romans 8:15 · 7. 1 Peter 2:9 · 8. Galatians 2:20
-9. Joshua 1:9 · 10. Psalm 46:10 · 11. 2 Timothy 1:7 · 12. Mark 4:39
-13. Psalm 40:2 · 14. Micah 7:8 · 15. Proverbs 24:16 · 16. John 13:14
-17. John 10:28 · 18. Matthew 11:28 · 19. Philippians 3:13 · 20. Hebrews 12:1
-21. Galatians 6:2 · 22. Matthew 23:4 · 23. Isaiah 40:31 · 24. John 15:5
-25. Genesis 2:7 · 26. Psalm 150:6 · 27. Job 33:4 · 28. John 20:22
-29. Proverbs 4:26 · 30. Psalm 119:105 · 31. Matthew 14:29–30 · 32. Hebrews 12:2
-33. Matthew 5:9 · 34. Romans 12:18 · 35. Proverbs 15:1 · 36. 1 Thessalonians 5:15
-37. Luke 7:8 · 38. Matthew 26:52 · 39. John 18:11 · 40. Micah 6:8
-41. Psalm 18:2 · 42. Proverbs 18:10 · 43. Psalm 34:4 · 44. John 8:36
-45. Hebrews 12:1 · 46. Isaiah 30:15 · 47. Mark 6:31 · 48. Psalm 127:2
-49. John 13:34 · 50. Matthew 28:19 · 51. Acts 1:8 · 52. 1 Corinthians 3:6
-
-Note that Hebrews 12:1 appears twice, in weeks 20 and 45, and that is not an error. The first time it is about laying down what you carry; the second time it is about endurance. A single verse carrying two different weeks is a feature of a curriculum that expects people to come back next year.
+**How to reach out.** A short, polite email with a specific question. Not "I loved your paper" — that is not a question. "I read your paper on X and I was wondering how you handled Y" — that is a question. The worst that happens is silence. The best is a conversation.
 
 ---
 
-## Appendix D — What to say when somebody asks about belts
+## Appendix C — The cold email template
 
-They will ask, usually in the first month, because every martial arts program they have ever seen has them.
+Subject: Question about your paper on [specific topic]
 
-Say this: *"We don't do belts, and it isn't because we're against them. A belt tells you where you rank against the person next to you, and this group is built so that the person next to you might be here for the first time and still be completely welcome. If we ranked people, the newest person would spend every session being the lowest rank in the room, and most people don't come back from that. So we measure different things: can you stand up off the floor, can you carry something heavy without hurting yourself, can you stay calm when you're out of breath, and can you keep your mouth shut for three minutes while somebody else talks."*
+Dear [Author],
 
-That answer usually satisfies people, and the ones it does not satisfy are usually looking for a different program, which is also fine.
+I read your recent paper, "[Title]," on [pre-print server]. I found the result on [specific finding] particularly interesting, especially because [one sentence about why it matters to you or your work].
+
+I had a question about [specific methodological choice or interpretation]. [One or two sentences stating the question clearly].
+
+If you have a moment, I would be grateful for your thoughts. I understand you are busy, and I appreciate your time.
+
+Best regards,
+[Your name]
+[Your affiliation, if relevant]
+[Your email]
+
+**The rules.** Be specific. Be brief. Be polite. Do not ask for a favor; ask for a thought. Do not send a template; send a question that could only be asked by someone who read the paper.
+
+---
+
+## Appendix D — The 52 readings, on one page
+
+1. Gelman & Loken (2014) — The Garden of Forking Paths
+2. Hernán & Robins — Causal Inference: What If, Ch. 1
+3. Simmons, Nelson, & Simonsohn (2011) — False-Positive Psychology
+4. A recent pre-print from an adjacent field
+5. Pearl & Mackenzie — The Book of Why, Ch. 1
+6. Pearl (1995) — Causal Diagrams for Empirical Research
+7. Cinelli, Forney, & Pearl (2022) — A Crash Course in Good and Bad Controls
+8. Hernán & Robins — Causal Inference: What If, Ch. 1 (again)
+9. Deaton & Cartwright (2018) — The Surprising World of RCTs
+10. Kohavi, Tang, & Xu — Trustworthy Online Controlled Experiments, Ch. 1
+11. Imbens & Rubin — Causal Inference, Ch. 1
+12. Angrist & Pischke — Mostly Harmless Econometrics, Ch. 2
+13. Goodman-Bacon (2021) — Difference-in-Differences with Variation in Treatment Timing
+14. Angrist, Imbens, & Rubin (1996) — Instrumental Variables
+15. Imbens & Lemieux (2008) — Regression Discontinuity Designs
+16. Abadie, Diamond, & Hainmueller (2010) — Synthetic Control Methods
+17. Rosenbaum & Rubin (1983) — The Central Role of the Propensity Score
+18. Funk et al. (2011) — Doubly Robust Estimation of Causal Effects
+19. VanderWeele & Ding (2017) — Sensitivity Analysis and the E-Value
+20. Lipsitch, Tchetgen, & Cohen (2010) — Negative Controls
+21. Wager & Athey (2018) — Estimation and Inference of Heterogeneous Treatment Effects
+22. Chernozhukov et al. (2018) — Double/Debiased Machine Learning
+23. van der Laan & Rubin (2006) — Targeted Maximum Likelihood Learning
+24. Spirtes, Glymour, & Scheines — Causation, Prediction, and Search, Ch. 1
+25. A good introduction to measurement error
+26. A good introduction to missing data
+27. A recent review of reproducibility
+28. A practical guide to data pipeline auditing
+29. A recent physics or engineering pre-print using causal methods
+30. Hernán & Robins (2016) — Target Trial Emulation
+31. A recent climate science paper on detection and attribution
+32. A recent social science paper using quasi-experimental methods
+33. A recent review of causal inference in marketing
+34. A recent review of causal inference in operations
+35. Kohavi, Tang, & Xu — Trustworthy Online Controlled Experiments, Ch. 2
+36. A good introduction to price elasticity
+37. Pinker — The Sense of Style, Ch. 1
+38. Cairo — The Truthful Art, Ch. 1
+39. A good introduction to value of information analysis
+40. Silver — The Signal and the Noise, Ch. 1
+41. Ries — The Lean Startup, Ch. 1
+42. Lencioni — The Advantage, Ch. 1
+43. Borenstein et al. — Introduction to Meta-Analysis, Ch. 1
+44. Rogers — Diffusion of Innovations, Ch. 1
+45. A recent review of causal inference for time series
+46. VanderWeele — Explanation in Causal Inference, Ch. 1
+47. Bareinboim & Pearl (2016) — Transportability of Causal Effects
+48. A recent review of causal inference with interference
+49. Brown, Roediger, & McDaniel — Make It Stick, Ch. 1
+50. Granovetter (1973) — The Strength of Weak Ties
+51. Re-read your notes from week one
+52. Brafman & Beckstrom — The Starfish and the Spider, Ch. 1
+
+Note that Hernán & Robins appears twice, in weeks 2 and 8, and that is not an error. The first time it is about the counterfactual framework; the second time it is about potential outcomes. A single book carrying two different weeks is a feature of a curriculum that expects people to come back next year.
 
 ---
 
 ## Appendix E — Handing off the year
 
-Three things make a group survive its founder, and none of them are spiritual.
+Three things make a group survive its founder, and none of them are technical.
 
 **First, write down what you actually do.** This document is that. If the whole thing lives in one person's head, the group dies with the person's schedule. Keep a copy printed in a folder that at least three people know about.
 
-**Second, train the second leader before you need them.** By week twenty, someone else should have led a warm-up. By week thirty, someone else should have led a whole session with you standing in the back saying nothing. By week fifty, two people should have led together. The role is not "assistant"; it is the same role, rotated.
+**Second, train the second leader before you need them.** By week twenty, someone else should have led a review. By week thirty, someone else should have led a whole session with you sitting in the back saying nothing. By week fifty, two people should have led together. The role is not "assistant"; it is the same role, rotated.
 
-**Third, keep the boring legal things boring.** One small entity or fiscal sponsor holds the insurance, the waiver file, the safeguarding policy, and the injury log. It receives nothing that buys influence, holds no fundraising, and has no logo. Practically, that means: no agency funds, no church budget line with an expectation attached, no grant that requires an institutional partnership. The group stays free, lay-led, and moneyless at the point of contact, and the entity exists only so that nobody personally owns the risk.
+**Third, keep the boring legal things boring.** If the group has any formal structure at all — a bank account, a meeting room, a mailing list — keep it minimal. The group stays free, open, and independent. The entity exists only so that nobody personally owns the risk, and it holds nothing that buys influence.
 
 And one sentence for whoever inherits this: *the group does not belong to the person who started it, and it will not survive if it does.*
 
@@ -1210,15 +1181,15 @@ And one sentence for whoever inherits this: *the group does not belong to the pe
 
 This is a short note on why the shape is what it is, so that a future leader can change it on purpose rather than by accident.
 
-**The weekly, school-year rhythm is the design variable that matters.** The published work on martial arts and adolescent outcomes is genuinely mixed, and the most common explanation in the literature is pedagogy: rule-based, disciplined, non-competitive instruction behaves differently from combat-sport framing. A monthly open mat is real fellowship, but it is not a program. A weekly session that runs all year, with the same shape and no competition, is the version with the best claim to being useful.
+**The weekly, year-long rhythm is the design variable that matters.** The literature on adult learning is clear that spaced repetition, regular practice, and a consistent social context are what make skills stick. A monthly reading group is real learning, but it is not a practice. A weekly session that runs all year, with the same shape and a rotating leader, is the version with the best chance of producing causal engineers rather than causal talkers.
 
-**The governance spine comes from Alcoholics Anonymous, not from a church growth book.** Free, non-professional, rotating leadership, no property, no prestige, attraction rather than promotion, and one primary purpose. AA's own evidence base for alcohol use disorder is stronger than almost anything else in this space, and its structural traditions are the reason it has survived nearly a century without a headquarters.
+**The four-week rhythm — teach, repetition, capacity, flow — comes from skill-acquisition research.** The progression from slow, explicit instruction to repeated practice to performance under constraint to integrated, automatic use is the standard model in everything from music to surgery. It works for causal inference too.
 
-**The drop-in, no-equipment, no-fee, outdoor shape comes from parkrun and from men's workout groups like F3.** Both proved that a free, repeating, volunteer-led, early-morning session in a public space can scale without money or staff. Both also demonstrate the failure mode: a group that becomes about the leader, or that starts selling something.
+**The attention practice is borrowed from contemplative traditions and from the decision sciences.** The idea that you need to train the capacity to notice — to hold uncertainty, to defamiliarize, to widen attention — before you can use it is ancient. The specific practices — the prediction journal, the DAG sketch, the what-would-change-my-mind exercise — are drawn from statistics, psychology, and the modern reproducibility movement.
 
-**The session order — waiver at the door, welcome and prayer, movement preparation, skill, controlled partner work, prayer out — follows the shape that already runs monthly in men's Christian jiu-jitsu ministries.** It is a proven 90-minute skeleton, shortened here to 75 minutes and stripped of the parts that require a mat, a uniform, or a monthly commitment.
+**The reading list is deliberately cross-disciplinary.** Causal inference is not owned by any one field. The best methods come from economics, statistics, computer science, epidemiology, and philosophy. A curriculum that only reads its own field is a curriculum that learns what it already knew.
 
-**What this design deliberately does not claim.** It is not evidence-based. It does not debrief trauma, and single-session debriefing does not prevent post-traumatic stress, which is settled. It is not proven to de-escalate anything, and it does not reduce anyone's liability. What it does is provide the four things that the literature and the precedents consistently point to: a sustained group, accountability, physical practice, and caring adults who are not family.
+**What this design deliberately does not claim.** It is not a substitute for formal training. It does not make anyone an expert in a year. It does not guarantee that you will discover surprises. What it does is provide the conditions that make surprise more likely: a regular practice, a diverse group, a cross-disciplinary reading list, and a discipline of noticing.
 
 ---
 
